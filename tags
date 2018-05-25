@@ -1,0 +1,1223 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+1000	node_modules/discord.js/src/util/Constants.js	/^  1000: 'Connection gracefully closed',$/;"	p	class:exports.WSCodes
+4004	node_modules/discord.js/src/util/Constants.js	/^  4004: 'Tried to identify with an invalid token',$/;"	p	class:exports.WSCodes
+4010	node_modules/discord.js/src/util/Constants.js	/^  4010: 'Sharding data provided was invalid',$/;"	p	class:exports.WSCodes
+4011	node_modules/discord.js/src/util/Constants.js	/^  4011: 'Shard would be on too many guilds if connected',$/;"	p	class:exports.WSCodes
+A	node_modules/tweetnacl/nacl-fast.js	/^function A(o, a, b) {$/;"	f
+A	node_modules/tweetnacl/nacl.js	/^function A(o, a, b) {$/;"	f
+ALL	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  ALL: 'ALL',$/;"	p	class:const
+ALL	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  ALL: null,$/;"	p	class:const
+AQUA	node_modules/discord.js/src/util/Constants.js	/^  AQUA: 0x1ABC9C,$/;"	p	class:exports.Colors
+AUTHENTICATING	node_modules/discord.js/src/util/Constants.js	/^  AUTHENTICATING: 2,$/;"	p	class:exports.VoiceStatus
+Array	node_modules/winston/lib/winston/transports/file.js	/^    Array.prototype.slice.call(arguments, 1).forEach(function (name) {$/;"	c	class:function
+BAD_LOGIN	node_modules/discord.js/src/util/Constants.js	/^  BAD_LOGIN: 'Incorrect login details were provided.',$/;"	p	class:exports.Errors
+BAD_WS_MESSAGE	node_modules/discord.js/src/util/Constants.js	/^  BAD_WS_MESSAGE: 'A bad message was received from the websocket; either bad compression, or not JSON.',$/;"	p	class:exports.Errors
+BITRATE	node_modules/discord.js/src/client/voice/opus/BaseOpusEngine.js	/^      BITRATE: 4002,$/;"	p	class:class.ctl
+BLUE	node_modules/discord.js/src/util/Constants.js	/^  BLUE: 0x3498DB,$/;"	p	class:exports.Colors
+BLURPLE	node_modules/discord.js/src/util/Constants.js	/^  BLURPLE: '6debd47ed13483642cf09e832ed0bc1b',$/;"	p	class:exports.DefaultAvatars
+BLURPLE	node_modules/discord.js/src/util/Constants.js	/^  BLURPLE: 0x7289DA,$/;"	p	class:exports.Colors
+BOT_ONLY_ENDPOINT	node_modules/discord.js/src/util/Constants.js	/^  BOT_ONLY_ENDPOINT: 20002,$/;"	p	class:exports.APIErrors
+BOT_PROHIBITED_ENDPOINT	node_modules/discord.js/src/util/Constants.js	/^  BOT_PROHIBITED_ENDPOINT: 20001,$/;"	p	class:exports.APIErrors
+BULK_DELETE_MESSAGE_TOO_OLD	node_modules/discord.js/src/util/Constants.js	/^  BULK_DELETE_MESSAGE_TOO_OLD: 50034,$/;"	p	class:exports.APIErrors
+CANNOT_EDIT_MESSAGE_BY_OTHER	node_modules/discord.js/src/util/Constants.js	/^  CANNOT_EDIT_MESSAGE_BY_OTHER: 50005,$/;"	p	class:exports.APIErrors
+CANNOT_EXECUTE_ON_DM	node_modules/discord.js/src/util/Constants.js	/^  CANNOT_EXECUTE_ON_DM: 50003,$/;"	p	class:exports.APIErrors
+CANNOT_EXECUTE_ON_SYSTEM_MESSAGE	node_modules/discord.js/src/util/Constants.js	/^  CANNOT_EXECUTE_ON_SYSTEM_MESSAGE: 50021,$/;"	p	class:exports.APIErrors
+CANNOT_MESSAGE_USER	node_modules/discord.js/src/util/Constants.js	/^  CANNOT_MESSAGE_USER: 50007,$/;"	p	class:exports.APIErrors
+CANNOT_PIN_MESSAGE_IN_OTHER_CHANNEL	node_modules/discord.js/src/util/Constants.js	/^  CANNOT_PIN_MESSAGE_IN_OTHER_CHANNEL: 50019,$/;"	p	class:exports.APIErrors
+CANNOT_SEND_EMPTY_MESSAGE	node_modules/discord.js/src/util/Constants.js	/^  CANNOT_SEND_EMPTY_MESSAGE: 50006,$/;"	p	class:exports.APIErrors
+CANNOT_SEND_MESSAGES_IN_VOICE_CHANNEL	node_modules/discord.js/src/util/Constants.js	/^  CANNOT_SEND_MESSAGES_IN_VOICE_CHANNEL: 50008,$/;"	p	class:exports.APIErrors
+CATEGORY	node_modules/discord.js/src/util/Constants.js	/^  CATEGORY: 4,$/;"	p	class:exports.ChannelTypes
+CHANNEL	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  CHANNEL: 'CHANNEL',$/;"	p	class:const
+CHANNEL_CREATE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  CHANNEL_CREATE: 10,$/;"	p	class:const
+CHANNEL_CREATE	node_modules/discord.js/src/util/Constants.js	/^  CHANNEL_CREATE: 'CHANNEL_CREATE',$/;"	p	class:exports.WSEvents
+CHANNEL_CREATE	node_modules/discord.js/src/util/Constants.js	/^  CHANNEL_CREATE: 'channelCreate',$/;"	p	class:exports.Events
+CHANNEL_DELETE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  CHANNEL_DELETE: 12,$/;"	p	class:const
+CHANNEL_DELETE	node_modules/discord.js/src/util/Constants.js	/^  CHANNEL_DELETE: 'CHANNEL_DELETE',$/;"	p	class:exports.WSEvents
+CHANNEL_DELETE	node_modules/discord.js/src/util/Constants.js	/^  CHANNEL_DELETE: 'channelDelete',$/;"	p	class:exports.Events
+CHANNEL_OVERWRITE_CREATE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  CHANNEL_OVERWRITE_CREATE: 13,$/;"	p	class:const
+CHANNEL_OVERWRITE_DELETE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  CHANNEL_OVERWRITE_DELETE: 15,$/;"	p	class:const
+CHANNEL_OVERWRITE_UPDATE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  CHANNEL_OVERWRITE_UPDATE: 14,$/;"	p	class:const
+CHANNEL_PINS_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  CHANNEL_PINS_UPDATE: 'CHANNEL_PINS_UPDATE',$/;"	p	class:exports.WSEvents
+CHANNEL_PINS_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  CHANNEL_PINS_UPDATE: 'channelPinsUpdate',$/;"	p	class:exports.Events
+CHANNEL_UPDATE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  CHANNEL_UPDATE: 11,$/;"	p	class:const
+CHANNEL_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  CHANNEL_UPDATE: 'CHANNEL_UPDATE',$/;"	p	class:exports.WSEvents
+CHANNEL_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  CHANNEL_UPDATE: 'channelUpdate',$/;"	p	class:exports.Events
+CHANNEL_VERIFICATION_LEVEL_TOO_HIGH	node_modules/discord.js/src/util/Constants.js	/^  CHANNEL_VERIFICATION_LEVEL_TOO_HIGH: 50009,$/;"	p	class:exports.APIErrors
+CONNECTED	node_modules/discord.js/src/util/Constants.js	/^  CONNECTED: 0,$/;"	p	class:exports.VoiceStatus
+CONNECTING	node_modules/discord.js/src/util/Constants.js	/^  CONNECTING: 1,$/;"	p	class:exports.Status
+CONNECTING	node_modules/discord.js/src/util/Constants.js	/^  CONNECTING: 1,$/;"	p	class:exports.VoiceStatus
+CREATE_INSTANT_INVITE	node_modules/discord.js/src/util/Permissions.js	/^  CREATE_INSTANT_INVITE: 1 << 0,$/;"	p	class:Permissions.FLAGS
+CallSite	node_modules/stack-trace/lib/stack-trace.js	/^function CallSite(properties) {$/;"	f
+Ch	node_modules/tweetnacl/nacl.js	/^function Ch(x, y, z) {$/;"	f
+Client	node_modules/discord.js/src/index.js	/^  Client: require('.\/client\/Client'),$/;"	p	class:module.exports
+ClientUser	node_modules/discord.js/src/structures/ClientUser.js	/^ClientUser.prototype.setGame =$/;"	c
+Console	node_modules/winston/lib/winston/transports/console.js	/^Console.prototype.name = 'console';$/;"	c
+Container	node_modules/winston/lib/winston/container.js	/^Container.prototype.get = Container.prototype.add = function (id, options) {$/;"	c
+CronJob	node_modules/scheduler/lib/cron.js	/^function CronJob(id,cronTime,event,conf){$/;"	c
+CronJob	node_modules/scheduler/lib/scheduler.js	/^var CronJob = require('.\/cron').CronJob;$/;"	v
+CronTime	node_modules/scheduler/lib/cron.js	/^var CronTime = require('.\/cron.time').CronTime;$/;"	v
+CronTime	node_modules/scheduler/lib/cron.time.js	/^function CronTime(time){$/;"	c
+DARKER_GREY	node_modules/discord.js/src/util/Constants.js	/^  DARKER_GREY: 0x7F8C8D,$/;"	p	class:exports.Colors
+DARK_AQUA	node_modules/discord.js/src/util/Constants.js	/^  DARK_AQUA: 0x11806A,$/;"	p	class:exports.Colors
+DARK_BLUE	node_modules/discord.js/src/util/Constants.js	/^  DARK_BLUE: 0x206694,$/;"	p	class:exports.Colors
+DARK_BUT_NOT_BLACK	node_modules/discord.js/src/util/Constants.js	/^  DARK_BUT_NOT_BLACK: 0x2C2F33,$/;"	p	class:exports.Colors
+DARK_GOLD	node_modules/discord.js/src/util/Constants.js	/^  DARK_GOLD: 0xC27C0E,$/;"	p	class:exports.Colors
+DARK_GREEN	node_modules/discord.js/src/util/Constants.js	/^  DARK_GREEN: 0x1F8B4C,$/;"	p	class:exports.Colors
+DARK_GREY	node_modules/discord.js/src/util/Constants.js	/^  DARK_GREY: 0x979C9F,$/;"	p	class:exports.Colors
+DARK_NAVY	node_modules/discord.js/src/util/Constants.js	/^  DARK_NAVY: 0x2C3E50,$/;"	p	class:exports.Colors
+DARK_ORANGE	node_modules/discord.js/src/util/Constants.js	/^  DARK_ORANGE: 0xA84300,$/;"	p	class:exports.Colors
+DARK_PURPLE	node_modules/discord.js/src/util/Constants.js	/^  DARK_PURPLE: 0x71368A,$/;"	p	class:exports.Colors
+DARK_RED	node_modules/discord.js/src/util/Constants.js	/^  DARK_RED: 0x992D22,$/;"	p	class:exports.Colors
+DEBUG	node_modules/discord.js/src/util/Constants.js	/^  DEBUG: 'debug',$/;"	p	class:exports.Events
+DEFAULT	node_modules/discord.js/src/util/Constants.js	/^  DEFAULT: 0x000000,$/;"	p	class:exports.Colors
+DISCONNECT	node_modules/discord.js/src/util/Constants.js	/^  DISCONNECT: 'disconnect',$/;"	p	class:exports.Events
+DISCONNECTED	node_modules/discord.js/src/util/Constants.js	/^  DISCONNECTED: 4,$/;"	p	class:exports.VoiceStatus
+DISCONNECTED	node_modules/discord.js/src/util/Constants.js	/^  DISCONNECTED: 5,$/;"	p	class:exports.Status
+DISPATCH	node_modules/discord.js/src/util/Constants.js	/^  DISPATCH: 0,$/;"	p	class:exports.OPCodes
+DM	node_modules/discord.js/src/util/Constants.js	/^  DM: 1,$/;"	p	class:exports.ChannelTypes
+Discord	bot.js	/^var Discord = require('discord.js');$/;"	v
+EMBED_DISABLED	node_modules/discord.js/src/util/Constants.js	/^  EMBED_DISABLED: 50004,$/;"	p	class:exports.APIErrors
+EMOJI	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  EMOJI: 'EMOJI',$/;"	p	class:const
+EMOJI_CREATE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  EMOJI_CREATE: 60,$/;"	p	class:const
+EMOJI_DELETE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  EMOJI_DELETE: 62,$/;"	p	class:const
+EMOJI_UPDATE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  EMOJI_UPDATE: 61,$/;"	p	class:const
+ERROR	node_modules/discord.js/src/util/Constants.js	/^  ERROR: 'error',$/;"	p	class:exports.Events
+Error.prepareStackTrace	node_modules/stack-trace/lib/stack-trace.js	/^  Error.prepareStackTrace = function(dummyObject, v8StackTrace) {$/;"	f
+FEC	node_modules/discord.js/src/client/voice/opus/BaseOpusEngine.js	/^      FEC: 4012,$/;"	p	class:class.ctl
+File	node_modules/winston/lib/winston/transports/file.js	/^File.prototype.name = 'file';$/;"	c
+GET	node_modules/snekfetch/src/node/transports/file.js	/^  GET: (filename, req) => {$/;"	p	class:const
+GOLD	node_modules/discord.js/src/util/Constants.js	/^  GOLD: 0xF1C40F,$/;"	p	class:exports.Colors
+GREEN	node_modules/discord.js/src/util/Constants.js	/^  GREEN: 'dd4dbc0016779df1378e7812eabaa04d',$/;"	p	class:exports.DefaultAvatars
+GREEN	node_modules/discord.js/src/util/Constants.js	/^  GREEN: 0x2ECC71,$/;"	p	class:exports.Colors
+GREY	node_modules/discord.js/src/util/Constants.js	/^  GREY: '322c936a8c8be1b803cd94861bdfa868',$/;"	p	class:exports.DefaultAvatars
+GREY	node_modules/discord.js/src/util/Constants.js	/^  GREY: 0x95A5A6,$/;"	p	class:exports.Colors
+GREYPLE	node_modules/discord.js/src/util/Constants.js	/^  GREYPLE: 0x99AAB5,$/;"	p	class:exports.Colors
+GROUP_DM	node_modules/discord.js/src/util/Constants.js	/^  GROUP_DM: 3,$/;"	p	class:exports.ChannelTypes
+GUILD	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  GUILD: 'GUILD',$/;"	p	class:const
+GUILD_AVAILABLE	node_modules/discord.js/src/util/Constants.js	/^  GUILD_AVAILABLE: 'guildAvailable',$/;"	p	class:exports.Events
+GUILD_BAN_ADD	node_modules/discord.js/src/util/Constants.js	/^  GUILD_BAN_ADD: 'GUILD_BAN_ADD',$/;"	p	class:exports.WSEvents
+GUILD_BAN_ADD	node_modules/discord.js/src/util/Constants.js	/^  GUILD_BAN_ADD: 'guildBanAdd',$/;"	p	class:exports.Events
+GUILD_BAN_REMOVE	node_modules/discord.js/src/util/Constants.js	/^  GUILD_BAN_REMOVE: 'GUILD_BAN_REMOVE',$/;"	p	class:exports.WSEvents
+GUILD_BAN_REMOVE	node_modules/discord.js/src/util/Constants.js	/^  GUILD_BAN_REMOVE: 'guildBanRemove',$/;"	p	class:exports.Events
+GUILD_CREATE	node_modules/discord.js/src/util/Constants.js	/^  GUILD_CREATE: 'GUILD_CREATE',$/;"	p	class:exports.WSEvents
+GUILD_CREATE	node_modules/discord.js/src/util/Constants.js	/^  GUILD_CREATE: 'guildCreate',$/;"	p	class:exports.Events
+GUILD_DELETE	node_modules/discord.js/src/util/Constants.js	/^  GUILD_DELETE: 'GUILD_DELETE',$/;"	p	class:exports.WSEvents
+GUILD_DELETE	node_modules/discord.js/src/util/Constants.js	/^  GUILD_DELETE: 'guildDelete',$/;"	p	class:exports.Events
+GUILD_EMOJIS_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  GUILD_EMOJIS_UPDATE: 'GUILD_EMOJIS_UPDATE',$/;"	p	class:exports.WSEvents
+GUILD_EMOJI_CREATE	node_modules/discord.js/src/util/Constants.js	/^  GUILD_EMOJI_CREATE: 'emojiCreate',$/;"	p	class:exports.Events
+GUILD_EMOJI_DELETE	node_modules/discord.js/src/util/Constants.js	/^  GUILD_EMOJI_DELETE: 'emojiDelete',$/;"	p	class:exports.Events
+GUILD_EMOJI_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  GUILD_EMOJI_UPDATE: 'emojiUpdate',$/;"	p	class:exports.Events
+GUILD_MEMBERS_CHUNK	node_modules/discord.js/src/util/Constants.js	/^  GUILD_MEMBERS_CHUNK: 'GUILD_MEMBERS_CHUNK',$/;"	p	class:exports.WSEvents
+GUILD_MEMBERS_CHUNK	node_modules/discord.js/src/util/Constants.js	/^  GUILD_MEMBERS_CHUNK: 'guildMembersChunk',$/;"	p	class:exports.Events
+GUILD_MEMBER_ADD	node_modules/discord.js/src/util/Constants.js	/^  GUILD_MEMBER_ADD: 'GUILD_MEMBER_ADD',$/;"	p	class:exports.WSEvents
+GUILD_MEMBER_ADD	node_modules/discord.js/src/util/Constants.js	/^  GUILD_MEMBER_ADD: 'guildMemberAdd',$/;"	p	class:exports.Events
+GUILD_MEMBER_AVAILABLE	node_modules/discord.js/src/util/Constants.js	/^  GUILD_MEMBER_AVAILABLE: 'guildMemberAvailable',$/;"	p	class:exports.Events
+GUILD_MEMBER_REMOVE	node_modules/discord.js/src/util/Constants.js	/^  GUILD_MEMBER_REMOVE: 'GUILD_MEMBER_REMOVE',$/;"	p	class:exports.WSEvents
+GUILD_MEMBER_REMOVE	node_modules/discord.js/src/util/Constants.js	/^  GUILD_MEMBER_REMOVE: 'guildMemberRemove',$/;"	p	class:exports.Events
+GUILD_MEMBER_SPEAKING	node_modules/discord.js/src/util/Constants.js	/^  GUILD_MEMBER_SPEAKING: 'guildMemberSpeaking',$/;"	p	class:exports.Events
+GUILD_MEMBER_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  GUILD_MEMBER_UPDATE: 'GUILD_MEMBER_UPDATE',$/;"	p	class:exports.WSEvents
+GUILD_MEMBER_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  GUILD_MEMBER_UPDATE: 'guildMemberUpdate',$/;"	p	class:exports.Events
+GUILD_ROLE_CREATE	node_modules/discord.js/src/util/Constants.js	/^  GUILD_ROLE_CREATE: 'GUILD_ROLE_CREATE',$/;"	p	class:exports.WSEvents
+GUILD_ROLE_CREATE	node_modules/discord.js/src/util/Constants.js	/^  GUILD_ROLE_CREATE: 'roleCreate',$/;"	p	class:exports.Events
+GUILD_ROLE_DELETE	node_modules/discord.js/src/util/Constants.js	/^  GUILD_ROLE_DELETE: 'GUILD_ROLE_DELETE',$/;"	p	class:exports.WSEvents
+GUILD_ROLE_DELETE	node_modules/discord.js/src/util/Constants.js	/^  GUILD_ROLE_DELETE: 'roleDelete',$/;"	p	class:exports.Events
+GUILD_ROLE_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  GUILD_ROLE_UPDATE: 'GUILD_ROLE_UPDATE',$/;"	p	class:exports.WSEvents
+GUILD_ROLE_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  GUILD_ROLE_UPDATE: 'roleUpdate',$/;"	p	class:exports.Events
+GUILD_SYNC	node_modules/discord.js/src/util/Constants.js	/^  GUILD_SYNC: 'GUILD_SYNC',$/;"	p	class:exports.WSEvents
+GUILD_UNAVAILABLE	node_modules/discord.js/src/util/Constants.js	/^  GUILD_UNAVAILABLE: 'guildUnavailable',$/;"	p	class:exports.Events
+GUILD_UPDATE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  GUILD_UPDATE: 1,$/;"	p	class:const
+GUILD_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  GUILD_UPDATE: 'GUILD_UPDATE',$/;"	p	class:exports.WSEvents
+GUILD_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  GUILD_UPDATE: 'guildUpdate',$/;"	p	class:exports.Events
+GuildMember	node_modules/discord.js/src/structures/GuildMember.js	/^GuildMember.prototype.hasPermissions = util.deprecate(GuildMember.prototype.hasPermissions,$/;"	c
+HEARTBEAT	node_modules/discord.js/src/util/Constants.js	/^  HEARTBEAT: 1,$/;"	p	class:exports.OPCodes
+HEARTBEAT	node_modules/discord.js/src/util/Constants.js	/^  HEARTBEAT: 3,$/;"	p	class:exports.VoiceOPCodes
+HEARTBEAT_ACK	node_modules/discord.js/src/util/Constants.js	/^  HEARTBEAT_ACK: 11,$/;"	p	class:exports.OPCodes
+HELLO	node_modules/discord.js/src/util/Constants.js	/^  HELLO: 10,$/;"	p	class:exports.OPCodes
+Hello	node_modules/snekfetch/test/main.js	/^    Hello: 'world',$/;"	p	class:const
+Http	node_modules/winston/lib/winston/transports/http.js	/^Http.prototype.name = 'http';$/;"	c
+IDENTIFY	node_modules/discord.js/src/util/Constants.js	/^  IDENTIFY: 0,$/;"	p	class:exports.VoiceOPCodes
+IDENTIFY	node_modules/discord.js/src/util/Constants.js	/^  IDENTIFY: 2,$/;"	p	class:exports.OPCodes
+IDLE	node_modules/discord.js/src/util/Constants.js	/^  IDLE: 3,$/;"	p	class:exports.Status
+IGNORES	node_modules/async/support/sync-package-managers.js	/^var IGNORES = ['**\/.*', 'node_modules', 'bower_components', 'test', 'tests'];$/;"	v
+INCLUDES	node_modules/async/support/sync-package-managers.js	/^var INCLUDES = ['lib\/async.js', 'README.md', 'LICENSE'];$/;"	v
+INVALID_ACCOUNT_TYPE	node_modules/discord.js/src/util/Constants.js	/^  INVALID_ACCOUNT_TYPE: 50002,$/;"	p	class:exports.APIErrors
+INVALID_AUTHENTICATION_TOKEN	node_modules/discord.js/src/util/Constants.js	/^  INVALID_AUTHENTICATION_TOKEN: 50014,$/;"	p	class:exports.APIErrors
+INVALID_BULK_DELETE_QUANTITY	node_modules/discord.js/src/util/Constants.js	/^  INVALID_BULK_DELETE_QUANTITY: 50016,$/;"	p	class:exports.APIErrors
+INVALID_OAUTH_STATE	node_modules/discord.js/src/util/Constants.js	/^  INVALID_OAUTH_STATE: 50012,$/;"	p	class:exports.APIErrors
+INVALID_RATE_LIMIT_METHOD	node_modules/discord.js/src/util/Constants.js	/^  INVALID_RATE_LIMIT_METHOD: 'Unknown rate limiting method.',$/;"	p	class:exports.Errors
+INVALID_SESSION	node_modules/discord.js/src/util/Constants.js	/^  INVALID_SESSION: 9,$/;"	p	class:exports.OPCodes
+INVALID_SHARD	node_modules/discord.js/src/util/Constants.js	/^  INVALID_SHARD: 'Invalid shard settings were provided.',$/;"	p	class:exports.Errors
+INVALID_TOKEN	node_modules/discord.js/src/util/Constants.js	/^  INVALID_TOKEN: 'An invalid token was provided.',$/;"	p	class:exports.Errors
+INVITE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  INVITE: 'INVITE',$/;"	p	class:const
+INVITE_ACCEPTED_TO_GUILD_NOT_CONTANING_BOT	node_modules/discord.js/src/util/Constants.js	/^  INVITE_ACCEPTED_TO_GUILD_NOT_CONTANING_BOT: 50036,$/;"	p	class:exports.APIErrors
+INVITE_CREATE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  INVITE_CREATE: 40,$/;"	p	class:const
+INVITE_DELETE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  INVITE_DELETE: 42,$/;"	p	class:const
+INVITE_UPDATE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  INVITE_UPDATE: 41,$/;"	p	class:const
+K	node_modules/tweetnacl/nacl-fast.js	/^var K = [$/;"	v
+K	node_modules/tweetnacl/nacl.js	/^var K = [$/;"	v
+L32	node_modules/tweetnacl/nacl.js	/^function L32(x, c) { return (x << c) | (x >>> (32 - c)); }$/;"	f
+LIGHT_GREY	node_modules/discord.js/src/util/Constants.js	/^  LIGHT_GREY: 0xBCC0C0,$/;"	p	class:exports.Colors
+Logger	node_modules/winston/lib/winston/logger.js	/^Logger.prototype.configure = function (options) {$/;"	c
+Long	node_modules/long/src/long.js	/^function Long(low, high, unsigned) {$/;"	c
+Long.fromBytes	node_modules/long/src/long.js	/^Long.fromBytes = function fromBytes(bytes, unsigned, le) {$/;"	f
+Long.fromBytesBE	node_modules/long/src/long.js	/^Long.fromBytesBE = function fromBytesBE(bytes, unsigned) {$/;"	f
+Long.fromBytesLE	node_modules/long/src/long.js	/^Long.fromBytesLE = function fromBytesLE(bytes, unsigned) {$/;"	f
+LongPrototype.add	node_modules/long/src/long.js	/^LongPrototype.add = function add(addend) {$/;"	f
+LongPrototype.and	node_modules/long/src/long.js	/^LongPrototype.and = function and(other) {$/;"	f
+LongPrototype.compare	node_modules/long/src/long.js	/^LongPrototype.compare = function compare(other) {$/;"	f
+LongPrototype.divide	node_modules/long/src/long.js	/^LongPrototype.divide = function divide(divisor) {$/;"	f
+LongPrototype.equals	node_modules/long/src/long.js	/^LongPrototype.equals = function equals(other) {$/;"	f
+LongPrototype.getHighBits	node_modules/long/src/long.js	/^LongPrototype.getHighBits = function getHighBits() {$/;"	f
+LongPrototype.getHighBitsUnsigned	node_modules/long/src/long.js	/^LongPrototype.getHighBitsUnsigned = function getHighBitsUnsigned() {$/;"	f
+LongPrototype.getLowBits	node_modules/long/src/long.js	/^LongPrototype.getLowBits = function getLowBits() {$/;"	f
+LongPrototype.getLowBitsUnsigned	node_modules/long/src/long.js	/^LongPrototype.getLowBitsUnsigned = function getLowBitsUnsigned() {$/;"	f
+LongPrototype.getNumBitsAbs	node_modules/long/src/long.js	/^LongPrototype.getNumBitsAbs = function getNumBitsAbs() {$/;"	c
+LongPrototype.greaterThan	node_modules/long/src/long.js	/^LongPrototype.greaterThan = function greaterThan(other) {$/;"	f
+LongPrototype.greaterThanOrEqual	node_modules/long/src/long.js	/^LongPrototype.greaterThanOrEqual = function greaterThanOrEqual(other) {$/;"	f
+LongPrototype.isEven	node_modules/long/src/long.js	/^LongPrototype.isEven = function isEven() {$/;"	f
+LongPrototype.isNegative	node_modules/long/src/long.js	/^LongPrototype.isNegative = function isNegative() {$/;"	f
+LongPrototype.isOdd	node_modules/long/src/long.js	/^LongPrototype.isOdd = function isOdd() {$/;"	f
+LongPrototype.isPositive	node_modules/long/src/long.js	/^LongPrototype.isPositive = function isPositive() {$/;"	f
+LongPrototype.isZero	node_modules/long/src/long.js	/^LongPrototype.isZero = function isZero() {$/;"	f
+LongPrototype.lessThan	node_modules/long/src/long.js	/^LongPrototype.lessThan = function lessThan(other) {$/;"	f
+LongPrototype.lessThanOrEqual	node_modules/long/src/long.js	/^LongPrototype.lessThanOrEqual = function lessThanOrEqual(other) {$/;"	f
+LongPrototype.modulo	node_modules/long/src/long.js	/^LongPrototype.modulo = function modulo(divisor) {$/;"	f
+LongPrototype.multiply	node_modules/long/src/long.js	/^LongPrototype.multiply = function multiply(multiplier) {$/;"	f
+LongPrototype.negate	node_modules/long/src/long.js	/^LongPrototype.negate = function negate() {$/;"	c
+LongPrototype.not	node_modules/long/src/long.js	/^LongPrototype.not = function not() {$/;"	f
+LongPrototype.notEquals	node_modules/long/src/long.js	/^LongPrototype.notEquals = function notEquals(other) {$/;"	f
+LongPrototype.or	node_modules/long/src/long.js	/^LongPrototype.or = function or(other) {$/;"	f
+LongPrototype.shiftLeft	node_modules/long/src/long.js	/^LongPrototype.shiftLeft = function shiftLeft(numBits) {$/;"	f
+LongPrototype.shiftRight	node_modules/long/src/long.js	/^LongPrototype.shiftRight = function shiftRight(numBits) {$/;"	f
+LongPrototype.shiftRightUnsigned	node_modules/long/src/long.js	/^LongPrototype.shiftRightUnsigned = function shiftRightUnsigned(numBits) {$/;"	f
+LongPrototype.subtract	node_modules/long/src/long.js	/^LongPrototype.subtract = function subtract(subtrahend) {$/;"	c
+LongPrototype.toBytes	node_modules/long/src/long.js	/^LongPrototype.toBytes = function toBytes(le) {$/;"	f
+LongPrototype.toBytesBE	node_modules/long/src/long.js	/^LongPrototype.toBytesBE = function toBytesBE() {$/;"	f
+LongPrototype.toBytesLE	node_modules/long/src/long.js	/^LongPrototype.toBytesLE = function toBytesLE() {$/;"	f
+LongPrototype.toInt	node_modules/long/src/long.js	/^LongPrototype.toInt = function toInt() {$/;"	f
+LongPrototype.toNumber	node_modules/long/src/long.js	/^LongPrototype.toNumber = function toNumber() {$/;"	c
+LongPrototype.toSigned	node_modules/long/src/long.js	/^LongPrototype.toSigned = function toSigned() {$/;"	f
+LongPrototype.toString	node_modules/long/src/long.js	/^LongPrototype.toString = function toString(radix) {$/;"	f
+LongPrototype.toUnsigned	node_modules/long/src/long.js	/^LongPrototype.toUnsigned = function toUnsigned() {$/;"	f
+LongPrototype.xor	node_modules/long/src/long.js	/^LongPrototype.xor = function xor(other) {$/;"	f
+M	node_modules/tweetnacl/nacl-fast.js	/^function M(o, a, b) {$/;"	f
+M	node_modules/tweetnacl/nacl.js	/^function M(o, a, b) {$/;"	f
+MAXIMUM_FRIENDS	node_modules/discord.js/src/util/Constants.js	/^  MAXIMUM_FRIENDS: 30002,$/;"	p	class:exports.APIErrors
+MAXIMUM_GUILDS	node_modules/discord.js/src/util/Constants.js	/^  MAXIMUM_GUILDS: 30001,$/;"	p	class:exports.APIErrors
+MAXIMUM_OAUTH2_APPLICATIONS	node_modules/discord.js/src/util/Constants.js	/^  MAXIMUM_OAUTH2_APPLICATIONS: 50011,$/;"	p	class:exports.APIErrors
+MAXIMUM_PINS	node_modules/discord.js/src/util/Constants.js	/^  MAXIMUM_PINS: 30003,$/;"	p	class:exports.APIErrors
+MAXIMUM_REACTIONS	node_modules/discord.js/src/util/Constants.js	/^  MAXIMUM_REACTIONS: 30010,$/;"	p	class:exports.APIErrors
+MAXIMUM_ROLES	node_modules/discord.js/src/util/Constants.js	/^  MAXIMUM_ROLES: 30005,$/;"	p	class:exports.APIErrors
+MEMBER_BAN_ADD	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  MEMBER_BAN_ADD: 22,$/;"	p	class:const
+MEMBER_BAN_REMOVE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  MEMBER_BAN_REMOVE: 23,$/;"	p	class:const
+MEMBER_KICK	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  MEMBER_KICK: 20,$/;"	p	class:const
+MEMBER_PRUNE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  MEMBER_PRUNE: 21,$/;"	p	class:const
+MEMBER_ROLE_UPDATE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  MEMBER_ROLE_UPDATE: 25,$/;"	p	class:const
+MEMBER_UPDATE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  MEMBER_UPDATE: 24,$/;"	p	class:const
+MESSAGE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  MESSAGE: 'MESSAGE',$/;"	p	class:const
+MESSAGE_BULK_DELETE	node_modules/discord.js/src/util/Constants.js	/^  MESSAGE_BULK_DELETE: 'messageDeleteBulk',$/;"	p	class:exports.Events
+MESSAGE_CREATE	node_modules/discord.js/src/util/Constants.js	/^  MESSAGE_CREATE: 'MESSAGE_CREATE',$/;"	p	class:exports.WSEvents
+MESSAGE_CREATE	node_modules/discord.js/src/util/Constants.js	/^  MESSAGE_CREATE: 'message',$/;"	p	class:exports.Events
+MESSAGE_DELETE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  MESSAGE_DELETE: 72,$/;"	p	class:const
+MESSAGE_DELETE	node_modules/discord.js/src/util/Constants.js	/^  MESSAGE_DELETE: 'MESSAGE_DELETE',$/;"	p	class:exports.WSEvents
+MESSAGE_DELETE	node_modules/discord.js/src/util/Constants.js	/^  MESSAGE_DELETE: 'messageDelete',$/;"	p	class:exports.Events
+MESSAGE_DELETE_BULK	node_modules/discord.js/src/util/Constants.js	/^  MESSAGE_DELETE_BULK: 'MESSAGE_DELETE_BULK',$/;"	p	class:exports.WSEvents
+MESSAGE_REACTION_ADD	node_modules/discord.js/src/util/Constants.js	/^  MESSAGE_REACTION_ADD: 'MESSAGE_REACTION_ADD',$/;"	p	class:exports.WSEvents
+MESSAGE_REACTION_ADD	node_modules/discord.js/src/util/Constants.js	/^  MESSAGE_REACTION_ADD: 'messageReactionAdd',$/;"	p	class:exports.Events
+MESSAGE_REACTION_REMOVE	node_modules/discord.js/src/util/Constants.js	/^  MESSAGE_REACTION_REMOVE: 'MESSAGE_REACTION_REMOVE',$/;"	p	class:exports.WSEvents
+MESSAGE_REACTION_REMOVE	node_modules/discord.js/src/util/Constants.js	/^  MESSAGE_REACTION_REMOVE: 'messageReactionRemove',$/;"	p	class:exports.Events
+MESSAGE_REACTION_REMOVE_ALL	node_modules/discord.js/src/util/Constants.js	/^  MESSAGE_REACTION_REMOVE_ALL: 'MESSAGE_REACTION_REMOVE_ALL',$/;"	p	class:exports.WSEvents
+MESSAGE_REACTION_REMOVE_ALL	node_modules/discord.js/src/util/Constants.js	/^  MESSAGE_REACTION_REMOVE_ALL: 'messageReactionRemoveAll',$/;"	p	class:exports.Events
+MESSAGE_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  MESSAGE_UPDATE: 'MESSAGE_UPDATE',$/;"	p	class:exports.WSEvents
+MESSAGE_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  MESSAGE_UPDATE: 'messageUpdate',$/;"	p	class:exports.Events
+METHODS	node_modules/snekfetch/src/node/index.js	/^  METHODS: http.METHODS,$/;"	p	class:module.exports
+MISSING_ACCESS	node_modules/discord.js/src/util/Constants.js	/^  MISSING_ACCESS: 50001,$/;"	p	class:exports.APIErrors
+MISSING_PERMISSIONS	node_modules/discord.js/src/util/Constants.js	/^  MISSING_PERMISSIONS: 50013,$/;"	p	class:exports.APIErrors
+Maj	node_modules/tweetnacl/nacl.js	/^function Maj(x, y, z) {$/;"	f
+Memory	node_modules/winston/lib/winston/transports/memory.js	/^Memory.prototype.name = 'memory';$/;"	c
+NAVY	node_modules/discord.js/src/util/Constants.js	/^  NAVY: 0x34495E,$/;"	p	class:exports.Colors
+NEARLY	node_modules/discord.js/src/util/Constants.js	/^  NEARLY: 4,$/;"	p	class:exports.Status
+NOTE_TOO_LONG	node_modules/discord.js/src/util/Constants.js	/^  NOTE_TOO_LONG: 50015,$/;"	p	class:exports.APIErrors
+NOT_A_PERMISSION	node_modules/discord.js/src/util/Constants.js	/^  NOT_A_PERMISSION: 'Invalid permission string or number.',$/;"	p	class:exports.Errors
+NOT_QUITE_BLACK	node_modules/discord.js/src/util/Constants.js	/^  NOT_QUITE_BLACK: 0x23272A,$/;"	p	class:exports.Colors
+NO_BOT_ACCOUNT	node_modules/discord.js/src/util/Constants.js	/^  NO_BOT_ACCOUNT: 'Only bot accounts are able to make use of this feature.',$/;"	p	class:exports.Errors
+NO_TOKEN	node_modules/discord.js/src/util/Constants.js	/^  NO_TOKEN: 'Request to use token, but token was unavailable to the client.',$/;"	p	class:exports.Errors
+NO_USER_ACCOUNT	node_modules/discord.js/src/util/Constants.js	/^  NO_USER_ACCOUNT: 'Only user accounts are able to make use of this feature.',$/;"	p	class:exports.Errors
+OAUTH2_APPLICATION_BOT_ABSENT	node_modules/discord.js/src/util/Constants.js	/^  OAUTH2_APPLICATION_BOT_ABSENT: 50010,$/;"	p	class:exports.APIErrors
+ORANGE	node_modules/discord.js/src/util/Constants.js	/^  ORANGE: '0e291f67c9274a1abdddeb3fd919cbaa',$/;"	p	class:exports.DefaultAvatars
+ORANGE	node_modules/discord.js/src/util/Constants.js	/^  ORANGE: 0xE67E22,$/;"	p	class:exports.Colors
+PLP	node_modules/discord.js/src/client/voice/opus/BaseOpusEngine.js	/^      PLP: 4014,$/;"	p	class:class.ctl
+PRESENCE_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  PRESENCE_UPDATE: 'PRESENCE_UPDATE',$/;"	p	class:exports.WSEvents
+PRESENCE_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  PRESENCE_UPDATE: 'presenceUpdate',$/;"	p	class:exports.Events
+PURPLE	node_modules/discord.js/src/util/Constants.js	/^  PURPLE: 0x9B59B6,$/;"	p	class:exports.Colors
+Permissions	node_modules/discord.js/src/util/Permissions.js	/^Permissions.prototype.hasPermission = util.deprecate(Permissions.prototype.hasPermission,$/;"	c
+ProfileHandler	node_modules/winston/lib/winston/logger.js	/^function ProfileHandler(logger) {$/;"	c
+Queue	node_modules/async-limiter/coverage/lcov-report/async-throttle/index.js.html	/^function Queue(options) {$/;"	f
+Queue	node_modules/async-limiter/index.js	/^function Queue(options) {$/;"	c
+R	node_modules/tweetnacl/nacl.js	/^function R(x, c) {$/;"	f
+REACTION_BLOCKED	node_modules/discord.js/src/util/Constants.js	/^  REACTION_BLOCKED: 90001,$/;"	p	class:exports.APIErrors
+READY	node_modules/discord.js/src/util/Constants.js	/^  READY: 'READY',$/;"	p	class:exports.WSEvents
+READY	node_modules/discord.js/src/util/Constants.js	/^  READY: 'ready',$/;"	p	class:exports.Events
+READY	node_modules/discord.js/src/util/Constants.js	/^  READY: 0,$/;"	p	class:exports.Status
+READY	node_modules/discord.js/src/util/Constants.js	/^  READY: 2,$/;"	p	class:exports.VoiceOPCodes
+RECONNECT	node_modules/discord.js/src/util/Constants.js	/^  RECONNECT: 7,$/;"	p	class:exports.OPCodes
+RECONNECTING	node_modules/discord.js/src/util/Constants.js	/^  RECONNECTING: 'reconnecting',$/;"	p	class:exports.Events
+RECONNECTING	node_modules/discord.js/src/util/Constants.js	/^  RECONNECTING: 2,$/;"	p	class:exports.Status
+RECONNECTING	node_modules/discord.js/src/util/Constants.js	/^  RECONNECTING: 3,$/;"	p	class:exports.VoiceStatus
+RED	node_modules/discord.js/src/util/Constants.js	/^  RED: '1cbd08c76f8af6dddce02c5138971129',$/;"	p	class:exports.DefaultAvatars
+RED	node_modules/discord.js/src/util/Constants.js	/^  RED: 0xE74C3C,$/;"	p	class:exports.Colors
+RELATIONSHIP_ADD	node_modules/discord.js/src/util/Constants.js	/^  RELATIONSHIP_ADD: 'RELATIONSHIP_ADD',$/;"	p	class:exports.WSEvents
+RELATIONSHIP_REMOVE	node_modules/discord.js/src/util/Constants.js	/^  RELATIONSHIP_REMOVE: 'RELATIONSHIP_REMOVE',$/;"	p	class:exports.WSEvents
+REPOSITORY_NAME	node_modules/async/support/sync-package-managers.js	/^var REPOSITORY_NAME = 'caolan\/async';$/;"	v
+REQUEST_GUILD_MEMBERS	node_modules/discord.js/src/util/Constants.js	/^  REQUEST_GUILD_MEMBERS: 8,$/;"	p	class:exports.OPCodes
+RESUME	node_modules/discord.js/src/util/Constants.js	/^  RESUME: 'resume',$/;"	p	class:exports.Events
+RESUME	node_modules/discord.js/src/util/Constants.js	/^  RESUME: 6,$/;"	p	class:exports.OPCodes
+RESUMED	node_modules/discord.js/src/util/Constants.js	/^  RESUMED: 'RESUMED',$/;"	p	class:exports.WSEvents
+ROLE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  ROLE: 'ROLE',$/;"	p	class:const
+ROLE_CREATE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  ROLE_CREATE: 30,$/;"	p	class:const
+ROLE_DELETE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  ROLE_DELETE: 32,$/;"	p	class:const
+ROLE_UPDATE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  ROLE_UPDATE: 31,$/;"	p	class:const
+Role	node_modules/discord.js/src/structures/Role.js	/^Role.prototype.hasPermissions = util$/;"	c
+S	node_modules/tweetnacl/nacl-fast.js	/^function S(o, a) {$/;"	f
+S	node_modules/tweetnacl/nacl.js	/^function S(o, a) {$/;"	f
+SELECT_PROTOCOL	node_modules/discord.js/src/util/Constants.js	/^  SELECT_PROTOCOL: 1,$/;"	p	class:exports.VoiceOPCodes
+SESSION_DESCRIPTION	node_modules/discord.js/src/util/Constants.js	/^  SESSION_DESCRIPTION: 4,$/;"	p	class:exports.VoiceOPCodes
+SHARDING_REQUIRED	node_modules/discord.js/src/util/Constants.js	/^  SHARDING_REQUIRED: 'This session would have handled too many guilds - Sharding is required.',$/;"	p	class:exports.Errors
+SHELL	node_modules/stack-trace/Makefile	/^SHELL := \/bin\/bash$/;"	m
+SPEAKING	node_modules/discord.js/src/util/Constants.js	/^  SPEAKING: 5,$/;"	p	class:exports.VoiceOPCodes
+STATUS_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  STATUS_UPDATE: 3,$/;"	p	class:exports.OPCodes
+SafeBuffer	node_modules/safe-buffer/index.js	/^function SafeBuffer (arg, encodingOrOffset, length) {$/;"	f	function:function
+SafeBuffer.alloc	node_modules/safe-buffer/index.js	/^SafeBuffer.alloc = function (size, fill, encoding) {$/;"	f
+SafeBuffer.allocUnsafe	node_modules/safe-buffer/index.js	/^SafeBuffer.allocUnsafe = function (size) {$/;"	f
+SafeBuffer.allocUnsafeSlow	node_modules/safe-buffer/index.js	/^SafeBuffer.allocUnsafeSlow = function (size) {$/;"	f
+Scheduler	node_modules/scheduler/lib/scheduler.js	/^function Scheduler(){$/;"	c
+Sigma0	node_modules/tweetnacl/nacl.js	/^function Sigma0(x) { return xor64(R(x,28), R(x,34), R(x,39)); }$/;"	f
+Sigma1	node_modules/tweetnacl/nacl.js	/^function Sigma1(x) { return xor64(R(x,14), R(x,18), R(x,41)); }$/;"	f
+Snekfetch	node_modules/snekfetch/src/index.js	/^  Snekfetch[method.toLowerCase()] = function runMethod(url, opts) {$/;"	f
+String	node_modules/colors/lib/extendStringPrototype.js	/^    String.prototype.__defineGetter__(color, func);$/;"	c	class:module
+TEXT	node_modules/discord.js/src/util/Constants.js	/^  TEXT: 0,$/;"	p	class:exports.ChannelTypes
+TOOK_TOO_LONG	node_modules/discord.js/src/util/Constants.js	/^  TOOK_TOO_LONG: 'Something took too long to do.',$/;"	p	class:exports.Errors
+TWO_PWR_16_DBL	node_modules/long/src/long.js	/^var TWO_PWR_16_DBL = 1 << 16;$/;"	v
+TWO_PWR_24_DBL	node_modules/long/src/long.js	/^var TWO_PWR_24_DBL = 1 << 24;$/;"	v
+TWO_PWR_32_DBL	node_modules/long/src/long.js	/^var TWO_PWR_32_DBL = TWO_PWR_16_DBL * TWO_PWR_16_DBL;$/;"	v
+TWO_PWR_63_DBL	node_modules/long/src/long.js	/^var TWO_PWR_63_DBL = TWO_PWR_64_DBL \/ 2;$/;"	v
+TWO_PWR_64_DBL	node_modules/long/src/long.js	/^var TWO_PWR_64_DBL = TWO_PWR_32_DBL * TWO_PWR_32_DBL;$/;"	v
+TYPING_START	node_modules/discord.js/src/util/Constants.js	/^  TYPING_START: 'TYPING_START',$/;"	p	class:exports.WSEvents
+TYPING_START	node_modules/discord.js/src/util/Constants.js	/^  TYPING_START: 'typingStart',$/;"	p	class:exports.Events
+TYPING_STOP	node_modules/discord.js/src/util/Constants.js	/^  TYPING_STOP: 'typingStop',$/;"	p	class:exports.Events
+Test	node_modules/snekfetch/test/main.js	/^    Test: numbers ? 1337 : '1337',$/;"	p	class:const
+TextBasedChannel	node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js	/^  TextBasedChannel.prototype[key] = util.deprecate(Deprecated[key], `TextChannel#${key}: use TextChannel#send instead`);$/;"	c
+Transport	node_modules/winston/lib/winston/transports/transport.js	/^Transport.prototype.formatQuery = function (query) {$/;"	c
+UNAUTHORIZED	node_modules/discord.js/src/util/Constants.js	/^  UNAUTHORIZED: 40001,$/;"	p	class:exports.APIErrors
+UNKNOWN_ACCOUNT	node_modules/discord.js/src/util/Constants.js	/^  UNKNOWN_ACCOUNT: 10001,$/;"	p	class:exports.APIErrors
+UNKNOWN_APPLICATION	node_modules/discord.js/src/util/Constants.js	/^  UNKNOWN_APPLICATION: 10002,$/;"	p	class:exports.APIErrors
+UNKNOWN_CHANNEL	node_modules/discord.js/src/util/Constants.js	/^  UNKNOWN_CHANNEL: 10003,$/;"	p	class:exports.APIErrors
+UNKNOWN_EMOJI	node_modules/discord.js/src/util/Constants.js	/^  UNKNOWN_EMOJI: 10014,$/;"	p	class:exports.APIErrors
+UNKNOWN_GUILD	node_modules/discord.js/src/util/Constants.js	/^  UNKNOWN_GUILD: 10004,$/;"	p	class:exports.APIErrors
+UNKNOWN_INTEGRATION	node_modules/discord.js/src/util/Constants.js	/^  UNKNOWN_INTEGRATION: 10005,$/;"	p	class:exports.APIErrors
+UNKNOWN_INVITE	node_modules/discord.js/src/util/Constants.js	/^  UNKNOWN_INVITE: 10006,$/;"	p	class:exports.APIErrors
+UNKNOWN_MEMBER	node_modules/discord.js/src/util/Constants.js	/^  UNKNOWN_MEMBER: 10007,$/;"	p	class:exports.APIErrors
+UNKNOWN_MESSAGE	node_modules/discord.js/src/util/Constants.js	/^  UNKNOWN_MESSAGE: 10008,$/;"	p	class:exports.APIErrors
+UNKNOWN_OVERWRITE	node_modules/discord.js/src/util/Constants.js	/^  UNKNOWN_OVERWRITE: 10009,$/;"	p	class:exports.APIErrors
+UNKNOWN_PROVIDER	node_modules/discord.js/src/util/Constants.js	/^  UNKNOWN_PROVIDER: 10010,$/;"	p	class:exports.APIErrors
+UNKNOWN_ROLE	node_modules/discord.js/src/util/Constants.js	/^  UNKNOWN_ROLE: 10011,$/;"	p	class:exports.APIErrors
+UNKNOWN_TOKEN	node_modules/discord.js/src/util/Constants.js	/^  UNKNOWN_TOKEN: 10012,$/;"	p	class:exports.APIErrors
+UNKNOWN_USER	node_modules/discord.js/src/util/Constants.js	/^  UNKNOWN_USER: 10013,$/;"	p	class:exports.APIErrors
+USER	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  USER: 'USER',$/;"	p	class:const
+USER_GUILD_SETTINGS_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  USER_GUILD_SETTINGS_UPDATE: 'USER_GUILD_SETTINGS_UPDATE',$/;"	p	class:exports.WSEvents
+USER_GUILD_SETTINGS_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  USER_GUILD_SETTINGS_UPDATE: 'clientUserGuildSettingsUpdate',$/;"	p	class:exports.Events
+USER_NOTE_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  USER_NOTE_UPDATE: 'USER_NOTE_UPDATE',$/;"	p	class:exports.WSEvents
+USER_NOTE_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  USER_NOTE_UPDATE: 'userNoteUpdate',$/;"	p	class:exports.Events
+USER_SETTINGS_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  USER_SETTINGS_UPDATE: 'USER_SETTINGS_UPDATE',$/;"	p	class:exports.WSEvents
+USER_SETTINGS_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  USER_SETTINGS_UPDATE: 'clientUserSettingsUpdate',$/;"	p	class:exports.Events
+USER_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  USER_UPDATE: 'USER_UPDATE',$/;"	p	class:exports.WSEvents
+USER_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  USER_UPDATE: 'userUpdate',$/;"	p	class:exports.Events
+VOICE	node_modules/discord.js/src/util/Constants.js	/^  VOICE: 2,$/;"	p	class:exports.ChannelTypes
+VOICE_GUILD_PING	node_modules/discord.js/src/util/Constants.js	/^  VOICE_GUILD_PING: 5,$/;"	p	class:exports.OPCodes
+VOICE_SERVER_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  VOICE_SERVER_UPDATE: 'VOICE_SERVER_UPDATE',$/;"	p	class:exports.WSEvents
+VOICE_STATE_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  VOICE_STATE_UPDATE: 'VOICE_STATE_UPDATE',$/;"	p	class:exports.WSEvents
+VOICE_STATE_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  VOICE_STATE_UPDATE: 'voiceStateUpdate',$/;"	p	class:exports.Events
+VOICE_STATE_UPDATE	node_modules/discord.js/src/util/Constants.js	/^  VOICE_STATE_UPDATE: 4,$/;"	p	class:exports.OPCodes
+WARN	node_modules/discord.js/src/util/Constants.js	/^  WARN: 'warn',$/;"	p	class:exports.Events
+WEBHOOK	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  WEBHOOK: 'WEBHOOK',$/;"	p	class:const
+WEBHOOK_CREATE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  WEBHOOK_CREATE: 50,$/;"	p	class:const
+WEBHOOK_DELETE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  WEBHOOK_DELETE: 52,$/;"	p	class:const
+WEBHOOK_UPDATE	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^  WEBHOOK_UPDATE: 51,$/;"	p	class:const
+WebSocket	node_modules/ws/lib/websocket.js	/^WebSocket.prototype.addEventListener = EventTarget.addEventListener;$/;"	c
+Z	node_modules/tweetnacl/nacl-fast.js	/^function Z(o, a, b) {$/;"	f
+Z	node_modules/tweetnacl/nacl.js	/^function Z(o, a, b) {$/;"	f
+_	node_modules/async/support/sync-package-managers.js	/^var _ = require('lodash');$/;"	v
+__defineGetter__	node_modules/colors/lib/extendStringPrototype.js	/^    String.prototype.__defineGetter__(color, func);$/;"	m	class:module.String
+__isLong__	node_modules/long/src/long.js	/^Long.prototype.__isLong__;$/;"	m	class:Long
+_applyEach	node_modules/async/lib/async.js	/^    var _applyEach = function (eachfn, fns \/*args...*\/) {$/;"	f
+_asyncMap	node_modules/async/lib/async.js	/^    var _asyncMap = function (eachfn, arr, iterator, callback) {$/;"	f
+_baseSlice	node_modules/async/lib/async.js	/^    var _baseSlice = function (arr, start) {$/;"	f
+_binarySearch	node_modules/async/lib/async.js	/^        function _binarySearch(sequence, item, compare) {$/;"	f	function:async.priorityQueue
+_checkMaxFilesIncrementing	node_modules/winston/lib/winston/transports/file.js	/^File.prototype._checkMaxFilesIncrementing = function (ext, basename, callback) {$/;"	m	class:File
+_checkMaxFilesTailable	node_modules/winston/lib/winston/transports/file.js	/^File.prototype._checkMaxFilesTailable = function (ext, basename, callback) {$/;"	m	class:File
+_close	node_modules/winston/lib/winston/container.js	/^  function _close (id) {$/;"	f	function:Container.function
+_compareTasks	node_modules/async/lib/async.js	/^        function _compareTasks(a, b){$/;"	f	function:async.priorityQueue
+_concat	node_modules/async/lib/async.js	/^    var _concat = function (eachfn, arr, fn, callback) {$/;"	f
+_console_fn	node_modules/async/lib/async.js	/^    var _console_fn = function (name) {$/;"	f
+_createStream	node_modules/winston/lib/winston/transports/file.js	/^File.prototype._createStream = function () {$/;"	m	class:File
+_delete	node_modules/winston/lib/winston/container.js	/^Container.prototype._delete = function (id) {$/;"	m	class:Container
+_detect	node_modules/async/lib/async.js	/^    var _detect = function (eachfn, arr, iterator, main_callback) {$/;"	f
+_each	node_modules/async/lib/async.js	/^    var _each = function (arr, iterator) {$/;"	f
+_eachLimit	node_modules/async/lib/async.js	/^    var _eachLimit = function (limit) {$/;"	f
+_filter	node_modules/async/lib/async.js	/^    var _filter = function (eachfn, arr, iterator, callback) {$/;"	f
+_forEachOf	node_modules/async/lib/async.js	/^    var _forEachOf = function (object, iterator) {$/;"	f
+_forEachOfLimit	node_modules/async/lib/async.js	/^    var _forEachOfLimit = function (limit) {$/;"	f
+_getExceptionHandlers	node_modules/winston/lib/winston/logger.js	/^Logger.prototype._getExceptionHandlers = function () {$/;"	m	class:Logger
+_getFile	node_modules/winston/lib/winston/transports/file.js	/^File.prototype._getFile = function () {$/;"	m	class:File
+_incFile	node_modules/winston/lib/winston/transports/file.js	/^File.prototype._incFile = function (callback) {$/;"	m	class:File
+_insert	node_modules/async/lib/async.js	/^        function _insert(q, data, pos, callback) {$/;"	f	function:async.queue
+_insert	node_modules/async/lib/async.js	/^        function _insert(q, data, priority, callback) {$/;"	f	function:async.priorityQueue
+_lazyDrain	node_modules/winston/lib/winston/transports/file.js	/^File.prototype._lazyDrain = function () {$/;"	m	class:File
+_map	node_modules/async/lib/async.js	/^    var _map = function (arr, iterator) {$/;"	f
+_mapLimit	node_modules/async/lib/async.js	/^    var _mapLimit = function(limit) {$/;"	f
+_onError	node_modules/winston/lib/winston/logger.js	/^Logger.prototype._onError = function (transport, err) {$/;"	m	class:Logger
+_parallel	node_modules/async/lib/async.js	/^    var _parallel = function(eachfn, tasks, callback) {$/;"	f
+_parse	node_modules/scheduler/lib/cron.time.js	/^    _parse: function(){$/;"	m	class:CronTime
+_parseField	node_modules/scheduler/lib/cron.time.js	/^    _parseField:function(field, type, constraints){$/;"	m	class:CronTime
+_reduce	node_modules/async/lib/async.js	/^    var _reduce = function (arr, iterator, memo) {$/;"	f
+_reject	node_modules/async/lib/async.js	/^    var _reject = function (eachfn, arr, iterator, callback) {$/;"	f
+_request	node_modules/winston/lib/winston/transports/http.js	/^Http.prototype._request = function (options, callback) {$/;"	m	class:Http
+_run	node_modules/async-limiter/index.js	/^Queue.prototype._run = function() {$/;"	m	class:Queue
+_setImmediate	node_modules/async/lib/async.js	/^    var _setImmediate;$/;"	v
+_uncaughtException	node_modules/winston/lib/winston/logger.js	/^Logger.prototype._uncaughtException = function (err) {$/;"	m	class:Logger
+_write	node_modules/winston/lib/winston/transports/file.js	/^File.prototype._write = function(data, callback) {$/;"	m	class:File
+a	node_modules/colors/lib/custom/trap.js	/^    a: ["\\u0040", "\\u0104", "\\u023a", "\\u0245", "\\u0394", "\\u039b", "\\u0414"],$/;"	p	class:module.trap
+a	node_modules/colors/tests/basic-test.js	/^function a(s, code) {$/;"	f
+a	node_modules/colors/tests/safe-test.js	/^function a(s, code) {$/;"	f
+a	node_modules/winston/scratch/buffer.js	/^var test = {a: "a", b: new Buffer(10)};$/;"	p	class:test
+aE	node_modules/colors/tests/basic-test.js	/^function aE(s, color, code) {$/;"	f
+aE	node_modules/colors/tests/safe-test.js	/^function aE(s, color, code) {$/;"	f
+abortConnection	node_modules/ws/lib/websocket-server.js	/^function abortConnection (socket, code, message) {$/;"	f
+add	node_modules/long/src/long.js	/^LongPrototype.add = function add(addend) {$/;"	f
+add	node_modules/tweetnacl/nacl-fast.js	/^function add(p, q) {$/;"	f
+add	node_modules/tweetnacl/nacl.js	/^function add(p, q) {$/;"	f
+add	node_modules/winston/lib/winston/logger.js	/^Logger.prototype.add = function (transport, options, created) {$/;"	m	class:Logger
+add	node_modules/winston/lib/winston/transports/file.js	/^  function add(buff, attempt) {$/;"	f	function:function
+add1305	node_modules/tweetnacl/nacl.js	/^function add1305(h, c) {$/;"	f
+add64	node_modules/tweetnacl/nacl.js	/^function add64() {$/;"	f
+addAndRunJob	node_modules/scheduler/lib/scheduler.js	/^Scheduler.prototype.addAndRunJob=function(id,cronMask,task){$/;"	m	class:Scheduler
+addEvent	node_modules/scheduler/lib/cron.js	/^CronJob.prototype.addEvent=function(event){$/;"	m	class:CronJob
+addEventListener	node_modules/ws/lib/websocket.js	/^WebSocket.prototype.addEventListener = EventTarget.addEventListener;$/;"	m	class:WebSocket
+addJob	node_modules/scheduler/lib/scheduler.js	/^Scheduler.prototype.addJob=function(id,cronMask,task){$/;"	m	class:Scheduler
+addListener	node_modules/async/lib/async.js	/^        var addListener = function (fn) {$/;"	f	function:async.auto
+addListeners	node_modules/ws/lib/websocket-server.js	/^function addListeners (server, map) {$/;"	f
+addProperty	node_modules/colors/lib/extendStringPrototype.js	/^  var addProperty = function (color, func) {$/;"	f	function:module
+addResults	node_modules/winston/lib/winston/logger.js	/^  function addResults(transport, next) {$/;"	f	function:function
+agent	node_modules/ws/lib/websocket.js	/^  var agent = options.agent;$/;"	v
+alert	node_modules/winston/lib/winston/config/syslog-config.js	/^  alert: 'yellow',$/;"	p	class:syslogConfig.colors
+alert	node_modules/winston/lib/winston/config/syslog-config.js	/^  alert: 1,$/;"	p	class:syslogConfig.levels
+allow	node_modules/discord.js/src/structures/GuildChannel.js	/^      allow: 0,$/;"	p	class:overwritePermissions
+and	node_modules/long/src/long.js	/^LongPrototype.and = function and(other) {$/;"	f
+ansiStyles	node_modules/colors/lib/colors.js	/^var ansiStyles = colors.styles = require('.\/styles');$/;"	v
+apiRequestMethod	node_modules/discord.js/src/util/Constants.js	/^  apiRequestMethod: 'sequential',$/;"	p	class:exports.DefaultOptions
+applyStyle	node_modules/colors/lib/colors.js	/^function applyStyle() {$/;"	f
+applyTheme	node_modules/colors/lib/colors.js	/^function applyTheme (theme) {$/;"	f
+applyTheme	node_modules/colors/lib/extendStringPrototype.js	/^  function applyTheme(theme) {$/;"	f
+apr	node_modules/scheduler/lib/cron.time.js	/^	   jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,oct:10,nov:11,dec:12,$/;"	p	class:CronTime.aliases
+argv	node_modules/colors/lib/system/supports-colors.js	/^var argv = process.argv;$/;"	v
+arrayAddMethods	node_modules/async-limiter/index.js	/^var arrayAddMethods = [$/;"	v
+assert	node_modules/colors/tests/basic-test.js	/^var assert = require('assert'),$/;"	v
+assert	node_modules/colors/tests/safe-test.js	/^var assert = require('assert'),$/;"	v
+assert	node_modules/winston/test/helpers.js	/^var assert = require('assert'),$/;"	v
+assert	node_modules/winston/test/transports/file-archive-test.js	/^var assert = require('assert'),$/;"	v
+assert	node_modules/winston/test/transports/file-maxfiles-test.js	/^var assert = require('assert'),$/;"	v
+assert	node_modules/winston/test/transports/file-maxsize-test.js	/^var assert = require('assert'),$/;"	v
+assert	node_modules/winston/test/transports/file-open-test.js	/^var assert = require('assert'),$/;"	v
+assert	node_modules/winston/test/transports/file-stress-test.js	/^var assert = require('assert'),$/;"	v
+assert	node_modules/winston/test/transports/file-tailrolling-test.js	/^var assert = require('assert'),$/;"	v
+assert	node_modules/winston/test/transports/transport.js	/^var assert = require('assert'),$/;"	v
+async.apply	node_modules/async/lib/async.js	/^    async.apply = function (fn) {$/;"	f
+async.auto	node_modules/async/lib/async.js	/^    async.auto = function (tasks, callback) {$/;"	f
+async.cargo	node_modules/async/lib/async.js	/^    async.cargo = function (worker, payload) {$/;"	f
+async.compose	node_modules/async/lib/async.js	/^    async.compose = function (\/* functions... *\/) {$/;"	f
+async.doUntil	node_modules/async/lib/async.js	/^    async.doUntil = function (iterator, test, callback) {$/;"	f
+async.doWhilst	node_modules/async/lib/async.js	/^    async.doWhilst = function (iterator, test, callback) {$/;"	f
+async.each	node_modules/async/lib/async.js	/^    async.each = function (arr, iterator, callback) {$/;"	f
+async.eachLimit	node_modules/async/lib/async.js	/^    async.eachLimit = function (arr, limit, iterator, callback) {$/;"	f
+async.eachSeries	node_modules/async/lib/async.js	/^    async.eachSeries = function (arr, iterator, callback) {$/;"	f
+async.every	node_modules/async/lib/async.js	/^    async.every = function (arr, iterator, main_callback) {$/;"	f
+async.forever	node_modules/async/lib/async.js	/^    async.forever = function (fn, callback) {$/;"	f
+async.iterator	node_modules/async/lib/async.js	/^    async.iterator = function (tasks) {$/;"	f
+async.mapLimit	node_modules/async/lib/async.js	/^    async.mapLimit = function (arr, limit, iterator, callback) {$/;"	f
+async.memoize	node_modules/async/lib/async.js	/^    async.memoize = function (fn, hasher) {$/;"	f
+async.nextTick	node_modules/async/lib/async.js	/^            async.nextTick = function (fn) {$/;"	f
+async.noConflict	node_modules/async/lib/async.js	/^    async.noConflict = function () {$/;"	f
+async.parallel	node_modules/async/lib/async.js	/^    async.parallel = function (tasks, callback) {$/;"	f
+async.parallelLimit	node_modules/async/lib/async.js	/^    async.parallelLimit = function(tasks, limit, callback) {$/;"	f
+async.priorityQueue	node_modules/async/lib/async.js	/^    async.priorityQueue = function (worker, concurrency) {$/;"	f
+async.queue	node_modules/async/lib/async.js	/^    async.queue = function (worker, concurrency) {$/;"	f
+async.reduce	node_modules/async/lib/async.js	/^    async.reduce = function (arr, memo, iterator, callback) {$/;"	f
+async.reduceRight	node_modules/async/lib/async.js	/^    async.reduceRight = function (arr, memo, iterator, callback) {$/;"	f
+async.retry	node_modules/async/lib/async.js	/^    async.retry = function(times, task, callback) {$/;"	f
+async.seq	node_modules/async/lib/async.js	/^    async.seq = function (\/* functions... *\/) {$/;"	f
+async.series	node_modules/async/lib/async.js	/^    async.series = function (tasks, callback) {$/;"	f
+async.setImmediate	node_modules/async/lib/async.js	/^            async.setImmediate = function (fn) {$/;"	f
+async.some	node_modules/async/lib/async.js	/^    async.some = function (arr, iterator, main_callback) {$/;"	f
+async.sortBy	node_modules/async/lib/async.js	/^    async.sortBy = function (arr, iterator, callback) {$/;"	f
+async.times	node_modules/async/lib/async.js	/^    async.times = function (count, iterator, callback) {$/;"	f
+async.timesSeries	node_modules/async/lib/async.js	/^    async.timesSeries = function (count, iterator, callback) {$/;"	f
+async.unmemoize	node_modules/async/lib/async.js	/^    async.unmemoize = function (fn) {$/;"	f
+async.until	node_modules/async/lib/async.js	/^    async.until = function (test, iterator, callback) {$/;"	f
+async.waterfall	node_modules/async/lib/async.js	/^    async.waterfall = function (tasks, callback) {$/;"	f
+async.whilst	node_modules/async/lib/async.js	/^    async.whilst = function (test, iterator, callback) {$/;"	f
+attachment	node_modules/discord.js/src/structures/Attachment.js	/^    this.file = { attachment: file, name };$/;"	p	class:setAttachment.file
+attachment	node_modules/discord.js/src/structures/Webhook.js	/^            file = { attachment: file.file, name: path.basename(file.file) || 'file.jpg' };$/;"	p	class:file
+attachment	node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js	/^            file = { attachment: file.file, name: path.basename(file.file) || 'file.jpg' };$/;"	p	class:file
+aug	node_modules/scheduler/lib/cron.time.js	/^	   jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,oct:10,nov:11,dec:12,$/;"	p	class:CronTime.aliases
+auth	bot.js	/^var auth = require('.\/auth.json'); var scheduler = require('scheduler');$/;"	v
+b	node_modules/winston/scratch/buffer.js	/^var test = {a: "a", b: new Buffer(10)};$/;"	p	class:test
+b00	node_modules/long/src/long.js	/^    var b00 = multiplier.low & 0xFFFF;$/;"	v
+b16	node_modules/long/src/long.js	/^    var b16 = multiplier.low >>> 16;$/;"	v
+b32	node_modules/long/src/long.js	/^    var b32 = multiplier.high & 0xFFFF;$/;"	v
+b48	node_modules/long/src/long.js	/^    var b48 = multiplier.high >>> 16;$/;"	v
+blocks	node_modules/tweetnacl/nacl-fast.js	/^poly1305.prototype.blocks = function(m, mpos, bytes) {$/;"	m	class:poly1305
+bold	node_modules/eyes/lib/eyes.js	/^        'bold'      : [1,  22],$/;"	p	class:eyes.stylize.codes
+boolProperties	node_modules/stack-trace/lib/stack-trace.js	/^var boolProperties = [$/;"	v
+bowerInclude	node_modules/async/support/sync-package-managers.js	/^var bowerInclude = ['name', 'description', 'version', 'main', 'keywords',$/;"	v
+bowerJson	node_modules/async/support/sync-package-managers.js	/^var bowerJson = _.merge({}, _.pick(packageJson, bowerInclude), bowerSpecific);$/;"	v
+buffer	node_modules/snekfetch/src/node/mime.js	/^  buffer: lookupBuffer,$/;"	p	class:module.exports
+build	node_modules/colors/lib/colors.js	/^function build(_styles) {$/;"	f
+buildRequest	node_modules/snekfetch/src/browser.js	/^function buildRequest(method, url) {$/;"	f
+buildRequest	node_modules/snekfetch/src/node/index.js	/^function buildRequest(method, url) {$/;"	c
+builder	node_modules/colors/lib/colors.js	/^  var builder = function builder() {$/;"	f	function:build
+c48	node_modules/long/src/long.js	/^    var c48 = 0, c32 = 0, c16 = 0, c00 = 0;$/;"	v
+car25519	node_modules/tweetnacl/nacl-fast.js	/^function car25519(o) {$/;"	f
+car25519	node_modules/tweetnacl/nacl.js	/^function car25519(o) {$/;"	f
+channels	node_modules/discord.js/src/client/voice/player/AudioPlayer.js	/^      channels: 2,$/;"	p	class:streamingData
+check	node_modules/winston/lib/winston/transports/file.js	/^  function check(log) {$/;"	f	function:function
+checkArrayTypes	node_modules/tweetnacl/nacl-fast.js	/^function checkArrayTypes() {$/;"	f
+checkArrayTypes	node_modules/tweetnacl/nacl.js	/^function checkArrayTypes() {$/;"	f
+checkBoxLengths	node_modules/tweetnacl/nacl-fast.js	/^function checkBoxLengths(pk, sk) {$/;"	f
+checkBoxLengths	node_modules/tweetnacl/nacl.js	/^function checkBoxLengths(pk, sk) {$/;"	f
+checkLengths	node_modules/tweetnacl/nacl-fast.js	/^function checkLengths(k, n) {$/;"	f
+checkLengths	node_modules/tweetnacl/nacl.js	/^function checkLengths(k, n) {$/;"	f
+cleanup	node_modules/tweetnacl/nacl-fast.js	/^function cleanup(arr) {$/;"	f
+cleanup	node_modules/tweetnacl/nacl.js	/^function cleanup(arr) {$/;"	f
+clear	node_modules/winston/lib/winston/logger.js	/^Logger.prototype.clear = function () {$/;"	m	class:Logger
+clearLogs	node_modules/winston/lib/winston/transports/memory.js	/^Memory.prototype.clearLogs = function () {$/;"	m	class:Memory
+cli	node_modules/winston/lib/winston/logger.js	/^Logger.prototype.cli = function () {$/;"	m	class:Logger
+cliConfig	node_modules/winston/lib/winston/config/cli-config.js	/^var cliConfig = exports;$/;"	v
+clock	node_modules/scheduler/lib/cron.js	/^CronJob.prototype.clock=function(){$/;"	m	class:CronJob
+clone	node_modules/winston/lib/winston/common.js	/^function clone(obj) {$/;"	f
+close	node_modules/winston/lib/winston/container.js	/^Container.prototype.close = function (id) {$/;"	m	class:Container
+close	node_modules/winston/lib/winston/logger.js	/^Logger.prototype.close = function () {$/;"	m	class:Logger
+close	node_modules/winston/lib/winston/transports/file.js	/^File.prototype.close = function () {$/;"	m	class:File
+colors	node_modules/colors/examples/normal-usage.js	/^var colors = require('..\/lib\/index');$/;"	v
+colors	node_modules/colors/examples/safe-string.js	/^var colors = require('..\/safe');$/;"	v
+colors	node_modules/colors/lib/extendStringPrototype.js	/^var colors = require('.\/colors'),$/;"	v
+colors	node_modules/colors/lib/index.js	/^var colors = require('.\/colors');$/;"	v
+colors	node_modules/colors/lib/maps/america.js	/^var colors = require('..\/colors');$/;"	v
+colors	node_modules/colors/lib/maps/rainbow.js	/^var colors = require('..\/colors');$/;"	v
+colors	node_modules/colors/lib/maps/random.js	/^var colors = require('..\/colors');$/;"	v
+colors	node_modules/colors/lib/maps/zebra.js	/^var colors = require('..\/colors');$/;"	v
+colors	node_modules/colors/safe.js	/^var colors = require('.\/lib\/colors');$/;"	v
+colors	node_modules/winston/lib/winston/config.js	/^var colors = require('colors\/safe');$/;"	v
+colors.setTheme	node_modules/colors/lib/colors.js	/^colors.setTheme = function (theme) {$/;"	f
+colors.setTheme	node_modules/colors/lib/extendStringPrototype.js	/^  colors.setTheme = function (theme) {$/;"	f
+common	node_modules/winston/lib/winston.js	/^var common             = require('.\/winston\/common');$/;"	v
+common	node_modules/winston/lib/winston/container.js	/^var common = require('.\/common'),$/;"	v
+common.timestamp	node_modules/winston/test/transports/transport.js	/^  common.timestamp = function() {$/;"	f
+compare	node_modules/long/src/long.js	/^LongPrototype.compare = function compare(other) {$/;"	f
+componentInclude	node_modules/async/support/sync-package-managers.js	/^var componentInclude = ['name', 'description', 'version', 'keywords',$/;"	v
+componentJson	node_modules/async/support/sync-package-managers.js	/^var componentJson = _.merge({}, _.pick(packageJson, componentInclude), componentSpecific);$/;"	v
+compressFile	node_modules/winston/lib/winston/transports/file.js	/^    function compressFile() {$/;"	f	function:function
+config.addColors	node_modules/winston/lib/winston/config.js	/^config.addColors = function (colors) {$/;"	f
+config.colorize	node_modules/winston/lib/winston/config.js	/^config.colorize = function (level, message) {$/;"	f
+configure	node_modules/winston/lib/winston/logger.js	/^Logger.prototype.configure = function (options) {$/;"	m	class:Logger
+content	node_modules/discord.js/src/client/rest/RESTMethods.js	/^      content: options.content,$/;"	p
+content	node_modules/discord.js/src/client/rest/RESTMethods.js	/^    if (typeof options === 'string') options = { content: options };$/;"	p	class:search
+content-length	node_modules/snekfetch/src/node/transports/file.js	/^        'content-length': 0,$/;"	p	class:standin.headers
+content-length	node_modules/snekfetch/src/node/transports/file.js	/^        'content-length': 0,$/;"	p	class:stream.headers
+content-type	node_modules/snekfetch/src/node/transports/file.js	/^        'content-type': mime.lookup(path.extname(filename)),$/;"	p	class:standin.headers
+content-type	node_modules/snekfetch/src/node/transports/file.js	/^        'content-type': mime.lookup(path.extname(filename)),$/;"	p	class:stream.headers
+convert_emoticons	node_modules/discord.js/src/util/Constants.js	/^  convert_emoticons: 'convertEmoticons',$/;"	p	class:exports.UserSettingsMap
+copyProps.from	node_modules/safe-buffer/index.js	/^copyProps(Buffer, SafeBuffer)$/;"	f
+core	node_modules/tweetnacl/nacl.js	/^function core(out,inp,k,c,h) {$/;"	f
+core_hsalsa20	node_modules/tweetnacl/nacl-fast.js	/^function core_hsalsa20(o,p,k,c) {$/;"	f
+core_salsa20	node_modules/tweetnacl/nacl-fast.js	/^function core_salsa20(o, p, k, c) {$/;"	f
+count	node_modules/discord.js/src/client/voice/player/AudioPlayer.js	/^      count: 0,$/;"	p	class:streamingData
+count	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^          count: data.options.count,$/;"	p	class:this.extra
+count	node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js	/^      count: count || 1,$/;"	p	class:const
+count	node_modules/scheduler/lib/scheduler.js	/^Scheduler.prototype.count=function(){$/;"	m	class:Scheduler
+createAndFlush	node_modules/winston/lib/winston/transports/file.js	/^    function createAndFlush (size) {$/;"	f	function:function
+crit	node_modules/winston/lib/winston/config/syslog-config.js	/^  crit: 'red',$/;"	p	class:syslogConfig.colors
+crit	node_modules/winston/lib/winston/config/syslog-config.js	/^  crit: 2,$/;"	p	class:syslogConfig.levels
+crypto_box	node_modules/tweetnacl/nacl-fast.js	/^  crypto_box: crypto_box,$/;"	p	class:nacl.lowlevel
+crypto_box	node_modules/tweetnacl/nacl-fast.js	/^function crypto_box(c, m, d, n, y, x) {$/;"	f
+crypto_box	node_modules/tweetnacl/nacl.js	/^  crypto_box: crypto_box,$/;"	p	class:nacl.lowlevel
+crypto_box	node_modules/tweetnacl/nacl.js	/^function crypto_box(c, m, d, n, y, x) {$/;"	f
+crypto_box_BEFORENMBYTES	node_modules/tweetnacl/nacl-fast.js	/^  crypto_box_BEFORENMBYTES: crypto_box_BEFORENMBYTES,$/;"	p	class:nacl.lowlevel
+crypto_box_BEFORENMBYTES	node_modules/tweetnacl/nacl.js	/^  crypto_box_BEFORENMBYTES: crypto_box_BEFORENMBYTES,$/;"	p	class:nacl.lowlevel
+crypto_box_BOXZEROBYTES	node_modules/tweetnacl/nacl-fast.js	/^  crypto_box_BOXZEROBYTES: crypto_box_BOXZEROBYTES,$/;"	p	class:nacl.lowlevel
+crypto_box_BOXZEROBYTES	node_modules/tweetnacl/nacl.js	/^  crypto_box_BOXZEROBYTES: crypto_box_BOXZEROBYTES,$/;"	p	class:nacl.lowlevel
+crypto_box_NONCEBYTES	node_modules/tweetnacl/nacl-fast.js	/^  crypto_box_NONCEBYTES: crypto_box_NONCEBYTES,$/;"	p	class:nacl.lowlevel
+crypto_box_NONCEBYTES	node_modules/tweetnacl/nacl.js	/^  crypto_box_NONCEBYTES: crypto_box_NONCEBYTES,$/;"	p	class:nacl.lowlevel
+crypto_box_PUBLICKEYBYTES	node_modules/tweetnacl/nacl-fast.js	/^  crypto_box_PUBLICKEYBYTES: crypto_box_PUBLICKEYBYTES,$/;"	p	class:nacl.lowlevel
+crypto_box_PUBLICKEYBYTES	node_modules/tweetnacl/nacl.js	/^  crypto_box_PUBLICKEYBYTES: crypto_box_PUBLICKEYBYTES,$/;"	p	class:nacl.lowlevel
+crypto_box_SECRETKEYBYTES	node_modules/tweetnacl/nacl-fast.js	/^  crypto_box_SECRETKEYBYTES: crypto_box_SECRETKEYBYTES,$/;"	p	class:nacl.lowlevel
+crypto_box_SECRETKEYBYTES	node_modules/tweetnacl/nacl.js	/^  crypto_box_SECRETKEYBYTES: crypto_box_SECRETKEYBYTES,$/;"	p	class:nacl.lowlevel
+crypto_box_ZEROBYTES	node_modules/tweetnacl/nacl-fast.js	/^  crypto_box_ZEROBYTES: crypto_box_ZEROBYTES,$/;"	p	class:nacl.lowlevel
+crypto_box_ZEROBYTES	node_modules/tweetnacl/nacl.js	/^  crypto_box_ZEROBYTES: crypto_box_ZEROBYTES,$/;"	p	class:nacl.lowlevel
+crypto_box_afternm	node_modules/tweetnacl/nacl-fast.js	/^  crypto_box_afternm: crypto_box_afternm,$/;"	p	class:nacl.lowlevel
+crypto_box_afternm	node_modules/tweetnacl/nacl.js	/^  crypto_box_afternm: crypto_box_afternm,$/;"	p	class:nacl.lowlevel
+crypto_box_beforenm	node_modules/tweetnacl/nacl-fast.js	/^  crypto_box_beforenm: crypto_box_beforenm,$/;"	p	class:nacl.lowlevel
+crypto_box_beforenm	node_modules/tweetnacl/nacl-fast.js	/^function crypto_box_beforenm(k, y, x) {$/;"	f
+crypto_box_beforenm	node_modules/tweetnacl/nacl.js	/^  crypto_box_beforenm: crypto_box_beforenm,$/;"	p	class:nacl.lowlevel
+crypto_box_beforenm	node_modules/tweetnacl/nacl.js	/^function crypto_box_beforenm(k, y, x) {$/;"	f
+crypto_box_keypair	node_modules/tweetnacl/nacl-fast.js	/^  crypto_box_keypair: crypto_box_keypair,$/;"	p	class:nacl.lowlevel
+crypto_box_keypair	node_modules/tweetnacl/nacl-fast.js	/^function crypto_box_keypair(y, x) {$/;"	f
+crypto_box_keypair	node_modules/tweetnacl/nacl.js	/^  crypto_box_keypair: crypto_box_keypair,$/;"	p	class:nacl.lowlevel
+crypto_box_keypair	node_modules/tweetnacl/nacl.js	/^function crypto_box_keypair(y, x) {$/;"	f
+crypto_box_open	node_modules/tweetnacl/nacl-fast.js	/^  crypto_box_open: crypto_box_open,$/;"	p	class:nacl.lowlevel
+crypto_box_open	node_modules/tweetnacl/nacl-fast.js	/^function crypto_box_open(m, c, d, n, y, x) {$/;"	f
+crypto_box_open	node_modules/tweetnacl/nacl.js	/^  crypto_box_open: crypto_box_open,$/;"	p	class:nacl.lowlevel
+crypto_box_open	node_modules/tweetnacl/nacl.js	/^function crypto_box_open(m, c, d, n, y, x) {$/;"	f
+crypto_core_hsalsa20	node_modules/tweetnacl/nacl-fast.js	/^  crypto_core_hsalsa20: crypto_core_hsalsa20,$/;"	p	class:nacl.lowlevel
+crypto_core_hsalsa20	node_modules/tweetnacl/nacl-fast.js	/^function crypto_core_hsalsa20(out,inp,k,c) {$/;"	f
+crypto_core_hsalsa20	node_modules/tweetnacl/nacl.js	/^  crypto_core_hsalsa20: crypto_core_hsalsa20,$/;"	p	class:nacl.lowlevel
+crypto_core_hsalsa20	node_modules/tweetnacl/nacl.js	/^function crypto_core_hsalsa20(out,inp,k,c) {$/;"	f
+crypto_core_salsa20	node_modules/tweetnacl/nacl-fast.js	/^function crypto_core_salsa20(out,inp,k,c) {$/;"	f
+crypto_core_salsa20	node_modules/tweetnacl/nacl.js	/^function crypto_core_salsa20(out,inp,k,c) {$/;"	f
+crypto_hash	node_modules/tweetnacl/nacl-fast.js	/^  crypto_hash: crypto_hash,$/;"	p	class:nacl.lowlevel
+crypto_hash	node_modules/tweetnacl/nacl-fast.js	/^function crypto_hash(out, m, n) {$/;"	f
+crypto_hash	node_modules/tweetnacl/nacl.js	/^  crypto_hash: crypto_hash,$/;"	p	class:nacl.lowlevel
+crypto_hash	node_modules/tweetnacl/nacl.js	/^function crypto_hash(out, m, n) {$/;"	f
+crypto_hash_BYTES	node_modules/tweetnacl/nacl-fast.js	/^  crypto_hash_BYTES: crypto_hash_BYTES$/;"	p	class:nacl.lowlevel
+crypto_hash_BYTES	node_modules/tweetnacl/nacl.js	/^  crypto_hash_BYTES: crypto_hash_BYTES$/;"	p	class:nacl.lowlevel
+crypto_hashblocks	node_modules/tweetnacl/nacl.js	/^function crypto_hashblocks(x, m, n) {$/;"	f
+crypto_hashblocks_hl	node_modules/tweetnacl/nacl-fast.js	/^function crypto_hashblocks_hl(hh, hl, m, n) {$/;"	f
+crypto_onetimeauth	node_modules/tweetnacl/nacl-fast.js	/^  crypto_onetimeauth: crypto_onetimeauth,$/;"	p	class:nacl.lowlevel
+crypto_onetimeauth	node_modules/tweetnacl/nacl-fast.js	/^function crypto_onetimeauth(out, outpos, m, mpos, n, k) {$/;"	f
+crypto_onetimeauth	node_modules/tweetnacl/nacl.js	/^  crypto_onetimeauth: crypto_onetimeauth,$/;"	p	class:nacl.lowlevel
+crypto_onetimeauth	node_modules/tweetnacl/nacl.js	/^function crypto_onetimeauth(out, outpos, m, mpos, n, k) {$/;"	f
+crypto_onetimeauth_verify	node_modules/tweetnacl/nacl-fast.js	/^  crypto_onetimeauth_verify: crypto_onetimeauth_verify,$/;"	p	class:nacl.lowlevel
+crypto_onetimeauth_verify	node_modules/tweetnacl/nacl-fast.js	/^function crypto_onetimeauth_verify(h, hpos, m, mpos, n, k) {$/;"	f
+crypto_onetimeauth_verify	node_modules/tweetnacl/nacl.js	/^  crypto_onetimeauth_verify: crypto_onetimeauth_verify,$/;"	p	class:nacl.lowlevel
+crypto_onetimeauth_verify	node_modules/tweetnacl/nacl.js	/^function crypto_onetimeauth_verify(h, hpos, m, mpos, n, k) {$/;"	f
+crypto_scalarmult	node_modules/tweetnacl/nacl-fast.js	/^  crypto_scalarmult: crypto_scalarmult,$/;"	p	class:nacl.lowlevel
+crypto_scalarmult	node_modules/tweetnacl/nacl-fast.js	/^function crypto_scalarmult(q, n, p) {$/;"	f
+crypto_scalarmult	node_modules/tweetnacl/nacl.js	/^  crypto_scalarmult: crypto_scalarmult,$/;"	p	class:nacl.lowlevel
+crypto_scalarmult	node_modules/tweetnacl/nacl.js	/^function crypto_scalarmult(q, n, p) {$/;"	f
+crypto_scalarmult_BYTES	node_modules/tweetnacl/nacl-fast.js	/^  crypto_scalarmult_BYTES: crypto_scalarmult_BYTES,$/;"	p	class:nacl.lowlevel
+crypto_scalarmult_BYTES	node_modules/tweetnacl/nacl.js	/^  crypto_scalarmult_BYTES: crypto_scalarmult_BYTES,$/;"	p	class:nacl.lowlevel
+crypto_scalarmult_SCALARBYTES	node_modules/tweetnacl/nacl-fast.js	/^  crypto_scalarmult_SCALARBYTES: crypto_scalarmult_SCALARBYTES,$/;"	p	class:nacl.lowlevel
+crypto_scalarmult_SCALARBYTES	node_modules/tweetnacl/nacl.js	/^  crypto_scalarmult_SCALARBYTES: crypto_scalarmult_SCALARBYTES,$/;"	p	class:nacl.lowlevel
+crypto_scalarmult_base	node_modules/tweetnacl/nacl-fast.js	/^  crypto_scalarmult_base: crypto_scalarmult_base,$/;"	p	class:nacl.lowlevel
+crypto_scalarmult_base	node_modules/tweetnacl/nacl-fast.js	/^function crypto_scalarmult_base(q, n) {$/;"	f
+crypto_scalarmult_base	node_modules/tweetnacl/nacl.js	/^  crypto_scalarmult_base: crypto_scalarmult_base,$/;"	p	class:nacl.lowlevel
+crypto_scalarmult_base	node_modules/tweetnacl/nacl.js	/^function crypto_scalarmult_base(q, n) {$/;"	f
+crypto_secretbox	node_modules/tweetnacl/nacl-fast.js	/^  crypto_secretbox: crypto_secretbox,$/;"	p	class:nacl.lowlevel
+crypto_secretbox	node_modules/tweetnacl/nacl-fast.js	/^function crypto_secretbox(c,m,d,n,k) {$/;"	f
+crypto_secretbox	node_modules/tweetnacl/nacl.js	/^  crypto_secretbox: crypto_secretbox,$/;"	p	class:nacl.lowlevel
+crypto_secretbox	node_modules/tweetnacl/nacl.js	/^function crypto_secretbox(c,m,d,n,k) {$/;"	f
+crypto_secretbox_BOXZEROBYTES	node_modules/tweetnacl/nacl-fast.js	/^  crypto_secretbox_BOXZEROBYTES: crypto_secretbox_BOXZEROBYTES,$/;"	p	class:nacl.lowlevel
+crypto_secretbox_BOXZEROBYTES	node_modules/tweetnacl/nacl.js	/^  crypto_secretbox_BOXZEROBYTES: crypto_secretbox_BOXZEROBYTES,$/;"	p	class:nacl.lowlevel
+crypto_secretbox_KEYBYTES	node_modules/tweetnacl/nacl-fast.js	/^  crypto_secretbox_KEYBYTES: crypto_secretbox_KEYBYTES,$/;"	p	class:nacl.lowlevel
+crypto_secretbox_KEYBYTES	node_modules/tweetnacl/nacl-fast.js	/^var crypto_secretbox_KEYBYTES = 32,$/;"	v
+crypto_secretbox_KEYBYTES	node_modules/tweetnacl/nacl.js	/^  crypto_secretbox_KEYBYTES: crypto_secretbox_KEYBYTES,$/;"	p	class:nacl.lowlevel
+crypto_secretbox_KEYBYTES	node_modules/tweetnacl/nacl.js	/^var crypto_secretbox_KEYBYTES = 32,$/;"	v
+crypto_secretbox_NONCEBYTES	node_modules/tweetnacl/nacl-fast.js	/^  crypto_secretbox_NONCEBYTES: crypto_secretbox_NONCEBYTES,$/;"	p	class:nacl.lowlevel
+crypto_secretbox_NONCEBYTES	node_modules/tweetnacl/nacl.js	/^  crypto_secretbox_NONCEBYTES: crypto_secretbox_NONCEBYTES,$/;"	p	class:nacl.lowlevel
+crypto_secretbox_ZEROBYTES	node_modules/tweetnacl/nacl-fast.js	/^  crypto_secretbox_ZEROBYTES: crypto_secretbox_ZEROBYTES,$/;"	p	class:nacl.lowlevel
+crypto_secretbox_ZEROBYTES	node_modules/tweetnacl/nacl.js	/^  crypto_secretbox_ZEROBYTES: crypto_secretbox_ZEROBYTES,$/;"	p	class:nacl.lowlevel
+crypto_secretbox_open	node_modules/tweetnacl/nacl-fast.js	/^  crypto_secretbox_open: crypto_secretbox_open,$/;"	p	class:nacl.lowlevel
+crypto_secretbox_open	node_modules/tweetnacl/nacl-fast.js	/^function crypto_secretbox_open(m,c,d,n,k) {$/;"	f
+crypto_secretbox_open	node_modules/tweetnacl/nacl.js	/^  crypto_secretbox_open: crypto_secretbox_open,$/;"	p	class:nacl.lowlevel
+crypto_secretbox_open	node_modules/tweetnacl/nacl.js	/^function crypto_secretbox_open(m,c,d,n,k) {$/;"	f
+crypto_sign	node_modules/tweetnacl/nacl-fast.js	/^  crypto_sign: crypto_sign,$/;"	p	class:nacl.lowlevel
+crypto_sign	node_modules/tweetnacl/nacl-fast.js	/^function crypto_sign(sm, m, n, sk) {$/;"	f
+crypto_sign	node_modules/tweetnacl/nacl.js	/^  crypto_sign: crypto_sign,$/;"	p	class:nacl.lowlevel
+crypto_sign	node_modules/tweetnacl/nacl.js	/^function crypto_sign(sm, m, n, sk) {$/;"	f
+crypto_sign_BYTES	node_modules/tweetnacl/nacl-fast.js	/^  crypto_sign_BYTES: crypto_sign_BYTES,$/;"	p	class:nacl.lowlevel
+crypto_sign_BYTES	node_modules/tweetnacl/nacl.js	/^  crypto_sign_BYTES: crypto_sign_BYTES,$/;"	p	class:nacl.lowlevel
+crypto_sign_PUBLICKEYBYTES	node_modules/tweetnacl/nacl-fast.js	/^  crypto_sign_PUBLICKEYBYTES: crypto_sign_PUBLICKEYBYTES,$/;"	p	class:nacl.lowlevel
+crypto_sign_PUBLICKEYBYTES	node_modules/tweetnacl/nacl.js	/^  crypto_sign_PUBLICKEYBYTES: crypto_sign_PUBLICKEYBYTES,$/;"	p	class:nacl.lowlevel
+crypto_sign_SECRETKEYBYTES	node_modules/tweetnacl/nacl-fast.js	/^  crypto_sign_SECRETKEYBYTES: crypto_sign_SECRETKEYBYTES,$/;"	p	class:nacl.lowlevel
+crypto_sign_SECRETKEYBYTES	node_modules/tweetnacl/nacl.js	/^  crypto_sign_SECRETKEYBYTES: crypto_sign_SECRETKEYBYTES,$/;"	p	class:nacl.lowlevel
+crypto_sign_SEEDBYTES	node_modules/tweetnacl/nacl-fast.js	/^  crypto_sign_SEEDBYTES: crypto_sign_SEEDBYTES,$/;"	p	class:nacl.lowlevel
+crypto_sign_SEEDBYTES	node_modules/tweetnacl/nacl.js	/^  crypto_sign_SEEDBYTES: crypto_sign_SEEDBYTES,$/;"	p	class:nacl.lowlevel
+crypto_sign_keypair	node_modules/tweetnacl/nacl-fast.js	/^  crypto_sign_keypair: crypto_sign_keypair,$/;"	p	class:nacl.lowlevel
+crypto_sign_keypair	node_modules/tweetnacl/nacl-fast.js	/^function crypto_sign_keypair(pk, sk, seeded) {$/;"	f
+crypto_sign_keypair	node_modules/tweetnacl/nacl.js	/^  crypto_sign_keypair: crypto_sign_keypair,$/;"	p	class:nacl.lowlevel
+crypto_sign_keypair	node_modules/tweetnacl/nacl.js	/^function crypto_sign_keypair(pk, sk, seeded) {$/;"	f
+crypto_sign_open	node_modules/tweetnacl/nacl-fast.js	/^  crypto_sign_open: crypto_sign_open,$/;"	p	class:nacl.lowlevel
+crypto_sign_open	node_modules/tweetnacl/nacl-fast.js	/^function crypto_sign_open(m, sm, n, pk) {$/;"	f
+crypto_sign_open	node_modules/tweetnacl/nacl.js	/^  crypto_sign_open: crypto_sign_open,$/;"	p	class:nacl.lowlevel
+crypto_sign_open	node_modules/tweetnacl/nacl.js	/^function crypto_sign_open(m, sm, n, pk) {$/;"	f
+crypto_stream	node_modules/tweetnacl/nacl-fast.js	/^  crypto_stream: crypto_stream,$/;"	p	class:nacl.lowlevel
+crypto_stream	node_modules/tweetnacl/nacl-fast.js	/^function crypto_stream(c,cpos,d,n,k) {$/;"	f
+crypto_stream	node_modules/tweetnacl/nacl.js	/^  crypto_stream: crypto_stream,$/;"	p	class:nacl.lowlevel
+crypto_stream	node_modules/tweetnacl/nacl.js	/^function crypto_stream(c,cpos,d,n,k) {$/;"	f
+crypto_stream_salsa20	node_modules/tweetnacl/nacl-fast.js	/^  crypto_stream_salsa20: crypto_stream_salsa20,$/;"	p	class:nacl.lowlevel
+crypto_stream_salsa20	node_modules/tweetnacl/nacl-fast.js	/^function crypto_stream_salsa20(c,cpos,b,n,k) {$/;"	f
+crypto_stream_salsa20	node_modules/tweetnacl/nacl.js	/^  crypto_stream_salsa20: crypto_stream_salsa20,$/;"	p	class:nacl.lowlevel
+crypto_stream_salsa20	node_modules/tweetnacl/nacl.js	/^function crypto_stream_salsa20(c,cpos,d,n,k) {$/;"	f
+crypto_stream_salsa20_xor	node_modules/tweetnacl/nacl-fast.js	/^  crypto_stream_salsa20_xor: crypto_stream_salsa20_xor,$/;"	p	class:nacl.lowlevel
+crypto_stream_salsa20_xor	node_modules/tweetnacl/nacl-fast.js	/^function crypto_stream_salsa20_xor(c,cpos,m,mpos,b,n,k) {$/;"	f
+crypto_stream_salsa20_xor	node_modules/tweetnacl/nacl.js	/^  crypto_stream_salsa20_xor: crypto_stream_salsa20_xor,$/;"	p	class:nacl.lowlevel
+crypto_stream_salsa20_xor	node_modules/tweetnacl/nacl.js	/^function crypto_stream_salsa20_xor(c,cpos,m,mpos,b,n,k) {$/;"	f
+crypto_stream_xor	node_modules/tweetnacl/nacl-fast.js	/^  crypto_stream_xor: crypto_stream_xor,$/;"	p	class:nacl.lowlevel
+crypto_stream_xor	node_modules/tweetnacl/nacl-fast.js	/^function crypto_stream_xor(c,cpos,m,mpos,d,n,k) {$/;"	f
+crypto_stream_xor	node_modules/tweetnacl/nacl.js	/^  crypto_stream_xor: crypto_stream_xor,$/;"	p	class:nacl.lowlevel
+crypto_stream_xor	node_modules/tweetnacl/nacl.js	/^function crypto_stream_xor(c,cpos,m,mpos,d,n,k) {$/;"	f
+crypto_verify_16	node_modules/tweetnacl/nacl-fast.js	/^  crypto_verify_16: crypto_verify_16,$/;"	p	class:nacl.lowlevel
+crypto_verify_16	node_modules/tweetnacl/nacl-fast.js	/^function crypto_verify_16(x, xi, y, yi) {$/;"	f
+crypto_verify_16	node_modules/tweetnacl/nacl.js	/^  crypto_verify_16: crypto_verify_16,$/;"	p	class:nacl.lowlevel
+crypto_verify_16	node_modules/tweetnacl/nacl.js	/^function crypto_verify_16(x, xi, y, yi) {$/;"	f
+crypto_verify_32	node_modules/tweetnacl/nacl-fast.js	/^  crypto_verify_32: crypto_verify_32,$/;"	p	class:nacl.lowlevel
+crypto_verify_32	node_modules/tweetnacl/nacl-fast.js	/^function crypto_verify_32(x, xi, y, yi) {$/;"	f
+crypto_verify_32	node_modules/tweetnacl/nacl.js	/^  crypto_verify_32: crypto_verify_32,$/;"	p	class:nacl.lowlevel
+crypto_verify_32	node_modules/tweetnacl/nacl.js	/^function crypto_verify_32(x, xi, y, yi) {$/;"	f
+cswap	node_modules/tweetnacl/nacl-fast.js	/^function cswap(p, q, b) {$/;"	f
+cswap	node_modules/tweetnacl/nacl.js	/^function cswap(p, q, b) {$/;"	f
+cycle	node_modules/cycle/cycle.js	/^var cycle = exports;$/;"	v
+cycle.decycle	node_modules/cycle/cycle.js	/^cycle.decycle = function decycle(object) {$/;"	f
+cycle.retrocycle	node_modules/cycle/cycle.js	/^cycle.retrocycle = function retrocycle($) {$/;"	f
+data	node_modules/colors/themes/generic-logging.js	/^  data: 'grey',$/;"	p	class:module
+data	node_modules/winston/lib/winston/config/cli-config.js	/^  data: 'grey',$/;"	p	class:cliConfig.colors
+data	node_modules/winston/lib/winston/config/cli-config.js	/^  data: 3,$/;"	p	class:cliConfig.levels
+data	node_modules/winston/test/transports/file-archive-test.js	/^function data(ch) {$/;"	f
+debug	node_modules/colors/themes/generic-logging.js	/^  debug: 'blue',$/;"	p	class:module
+debug	node_modules/winston/lib/winston/config/cli-config.js	/^  debug: 'blue',$/;"	p	class:cliConfig.colors
+debug	node_modules/winston/lib/winston/config/cli-config.js	/^  debug: 5,$/;"	p	class:cliConfig.levels
+debug	node_modules/winston/lib/winston/config/npm-config.js	/^  debug: 'blue',$/;"	p	class:npmConfig.colors
+debug	node_modules/winston/lib/winston/config/npm-config.js	/^  debug: 4,$/;"	p	class:npmConfig.levels
+debug	node_modules/winston/lib/winston/config/syslog-config.js	/^  debug: 'blue'$/;"	p	class:syslogConfig.colors
+debug	node_modules/winston/lib/winston/config/syslog-config.js	/^  debug: 7$/;"	p	class:syslogConfig.levels
+dec	node_modules/scheduler/lib/cron.time.js	/^	   jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,oct:10,nov:11,dec:12,$/;"	p	class:CronTime.aliases
+decycle	node_modules/cycle/cycle.js	/^cycle.decycle = function decycle(object) {$/;"	f
+default_guilds_restricted	node_modules/discord.js/src/util/Constants.js	/^  default_guilds_restricted: 'defaultGuildsRestricted',$/;"	p	class:exports.UserSettingsMap
+deflateOnData	node_modules/ws/lib/permessage-deflate.js	/^function deflateOnData (chunk) {$/;"	c
+delete-message-days	node_modules/discord.js/src/structures/Guild.js	/^      options = { reason: null, 'delete-message-days': options };$/;"	p	class:ban
+delete-message-days	node_modules/discord.js/src/structures/Guild.js	/^      options = { reason: options, 'delete-message-days': 0 };$/;"	p	class:options
+deny	node_modules/discord.js/src/structures/GuildChannel.js	/^      deny: 0,$/;"	p	class:overwritePermissions
+detect_platform_accounts	node_modules/discord.js/src/util/Constants.js	/^  detect_platform_accounts: 'detectPlatformAccounts',$/;"	p	class:exports.UserSettingsMap
+developer_mode	node_modules/discord.js/src/util/Constants.js	/^  developer_mode: 'developerMode',$/;"	p	class:exports.UserSettingsMap
+disableEveryone	node_modules/discord.js/src/util/Constants.js	/^  disableEveryone: false,$/;"	p	class:exports.DefaultOptions
+disabledEvents	node_modules/discord.js/src/util/Constants.js	/^  disabledEvents: [],$/;"	p	class:exports.DefaultOptions
+divide	node_modules/long/src/long.js	/^LongPrototype.divide = function divide(divisor) {$/;"	f
+dl64	node_modules/tweetnacl/nacl.js	/^function dl64(x, i) {$/;"	f
+doParallel	node_modules/async/lib/async.js	/^    var doParallel = function (fn) {$/;"	f
+doParallelLimit	node_modules/async/lib/async.js	/^    var doParallelLimit = function(limit, fn) {$/;"	f
+doSeries	node_modules/async/lib/async.js	/^    var doSeries = function (fn) {$/;"	f
+done	node_modules/async-limiter/coverage/lcov-report/async-throttle/index.js.html	/^function done() {$/;"	f
+done	node_modules/async-limiter/index.js	/^function done() {$/;"	c
+done	node_modules/async/lib/async.js	/^        function done(err) {$/;"	f	function:async.each
+done	node_modules/winston/lib/winston/logger.js	/^ProfileHandler.prototype.done = function (msg) {$/;"	m	class:ProfileHandler
+down	node_modules/colors/lib/custom/zalgo.js	/^      counts = {"up" : 0, "down" : 0, "mid" : 0};$/;"	p	class:counts
+drain	node_modules/async/lib/async.js	/^            drain: null,$/;"	p	class:async.cargo.cargo
+drained	node_modules/async/lib/async.js	/^            drained: true,$/;"	p	class:async.cargo.cargo
+emerg	node_modules/winston/lib/winston/config/syslog-config.js	/^  emerg: 'red',$/;"	p	class:syslogConfig.colors
+emerg	node_modules/winston/lib/winston/config/syslog-config.js	/^  emerg: 0,$/;"	p	class:syslogConfig.levels
+empty	node_modules/async/lib/async.js	/^            empty: null,$/;"	p	class:async.cargo.cargo
+enable_tts_command	node_modules/discord.js/src/util/Constants.js	/^  enable_tts_command: 'enableTTSCommand',$/;"	p	class:exports.UserSettingsMap
+end	node_modules/winston/test/transports/transport.js	/^            var end = Date.now() + (100 * 1000);$/;"	v
+entry	node_modules/snekfetch/webpack.config.js	/^  entry: require.resolve('.'),$/;"	p	class:module.exports
+equals	node_modules/long/src/long.js	/^LongPrototype.equals = function equals(other) {$/;"	f
+error	node_modules/colors/themes/generic-logging.js	/^  error: 'red'$/;"	p	class:module
+error	node_modules/winston/lib/winston/config/cli-config.js	/^  error: 'red',$/;"	p	class:cliConfig.colors
+error	node_modules/winston/lib/winston/config/cli-config.js	/^  error: 0,$/;"	p	class:cliConfig.levels
+error	node_modules/winston/lib/winston/config/npm-config.js	/^  error: 'red',$/;"	p	class:npmConfig.colors
+error	node_modules/winston/lib/winston/config/npm-config.js	/^  error: 0,$/;"	p	class:npmConfig.levels
+error	node_modules/winston/lib/winston/config/syslog-config.js	/^  error: 'red',$/;"	p	class:syslogConfig.colors
+error	node_modules/winston/lib/winston/config/syslog-config.js	/^  error: 3,$/;"	p	class:syslogConfig.levels
+escapeStringRegexp	node_modules/colors/lib/colors.js	/^var escapeStringRegexp = function (str) {$/;"	f
+events	node_modules/winston/lib/winston/logger.js	/^var events = require('events'),$/;"	v
+events	node_modules/winston/lib/winston/transports/console.js	/^var events = require('events'),$/;"	v
+events	node_modules/winston/lib/winston/transports/file.js	/^var events = require('events'),$/;"	v
+events	node_modules/winston/lib/winston/transports/memory.js	/^var events = require('events'),$/;"	v
+events	node_modules/winston/lib/winston/transports/transport.js	/^var events = require('events'),$/;"	v
+exception	node_modules/winston/lib/winston/exception.js	/^var exception = exports;$/;"	v
+exception.getAllInfo	node_modules/winston/lib/winston/exception.js	/^exception.getAllInfo = function (err) {$/;"	f
+exception.getOsInfo	node_modules/winston/lib/winston/exception.js	/^exception.getOsInfo = function () {$/;"	f
+exception.getProcessInfo	node_modules/winston/lib/winston/exception.js	/^exception.getProcessInfo = function () {$/;"	f
+exception.getTrace	node_modules/winston/lib/winston/exception.js	/^exception.getTrace = function (err) {$/;"	f
+exports._createParsedCallSite	node_modules/stack-trace/lib/stack-trace.js	/^exports._createParsedCallSite = function(properties) {$/;"	f
+exports.capitalize	node_modules/winston/lib/winston/common.js	/^exports.capitalize = function (str) {$/;"	f
+exports.clone	node_modules/winston/lib/winston/common.js	/^exports.clone = function (obj) {$/;"	f
+exports.create	node_modules/scheduler/lib/scheduler.js	/^exports.create=function(){$/;"	f
+exports.get	node_modules/stack-trace/lib/stack-trace.js	/^exports.get = function(belowFn) {$/;"	f
+exports.hash	node_modules/winston/lib/winston/common.js	/^exports.hash = function (str) {$/;"	f
+exports.log	node_modules/winston/lib/winston/common.js	/^exports.log = function (options) {$/;"	f
+exports.longestElement	node_modules/winston/lib/winston/common.js	/^exports.longestElement = function (xs) {$/;"	f
+exports.pad	node_modules/winston/lib/winston/common.js	/^exports.pad = function (n) {$/;"	f
+exports.parse	node_modules/stack-trace/lib/stack-trace.js	/^exports.parse = function(err) {$/;"	f
+exports.setLevels	node_modules/winston/lib/winston/common.js	/^exports.setLevels = function (target, past, current, isDefault) {$/;"	f
+exports.stringArrayToSet	node_modules/winston/lib/winston/common.js	/^exports.stringArrayToSet = function (strArray, errMsg) {$/;"	f
+exports.tailFile	node_modules/winston/lib/winston/common.js	/^exports.tailFile = function(options, callback) {$/;"	f
+exports.testAddJobAndDelete	node_modules/scheduler/tests/scheduler.test.js	/^exports.testAddJobAndDelete=function()$/;"	f
+exports.testAddTwoJobsAndDeleteAll	node_modules/scheduler/tests/scheduler.test.js	/^exports.testAddTwoJobsAndDeleteAll=function()$/;"	f
+exports.testStopTwoJobs	node_modules/scheduler/tests/scheduler.test.js	/^exports.testStopTwoJobs=function()$/;"	f
+exports.timestamp	node_modules/winston/lib/winston/common.js	/^exports.timestamp = function () {$/;"	f
+extendStringPrototype	node_modules/colors/lib/index.js	/^var extendStringPrototype = require('.\/extendStringPrototype')();/;"	v
+eyes	node_modules/eyes/lib/eyes.js	/^var eyes = exports,$/;"	v
+eyes	node_modules/eyes/test/eyes-test.js	/^var eyes = require('..\/lib\/eyes');$/;"	v
+eyes.inspect	node_modules/eyes/lib/eyes.js	/^eyes.inspect = function (obj, label, options) {$/;"	f
+eyes.inspector	node_modules/eyes/lib/eyes.js	/^eyes.inspector = function (options) {$/;"	f
+eyes.stylize	node_modules/eyes/lib/eyes.js	/^eyes.stylize = function (str, style, styles) {$/;"	f
+feb	node_modules/scheduler/lib/cron.time.js	/^	   jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,oct:10,nov:11,dec:12,$/;"	p	class:CronTime.aliases
+fetch	node_modules/discord.js/src/client/voice/opus/OpusEngineList.js	/^function fetch(Encoder, engineOptions) {$/;"	f
+fetchAllMembers	node_modules/discord.js/src/util/Constants.js	/^  fetchAllMembers: false,$/;"	p	class:exports.DefaultOptions
+file	node_modules/winston/lib/winston/transports/file.js	/^    file: file,$/;"	p	class:var.tail
+file:	node_modules/snekfetch/src/node/index.js	/^  'file:': require('.\/transports\/file'),$/;"	p	class:const
+fileName	node_modules/stack-trace/lib/stack-trace.js	/^        fileName: lineMatch[2] || null,$/;"	p	class:properties
+fin	node_modules/ws/lib/sender.js	/^        fin: options.fin,$/;"	p
+finalizeRequest	node_modules/snekfetch/src/browser.js	/^function finalizeRequest() {$/;"	c
+finalizeRequest	node_modules/snekfetch/src/node/index.js	/^function finalizeRequest() {$/;"	f
+finish	node_modules/tweetnacl/nacl-fast.js	/^poly1305.prototype.finish = function(mac, macpos) {$/;"	m	class:poly1305
+finish	node_modules/winston/lib/winston/logger.js	/^  function finish(err) {$/;"	f	function:function
+flush	node_modules/winston/lib/winston/transports/file.js	/^File.prototype.flush = function () {$/;"	m	class:File
+fn	node_modules/async/lib/async.js	/^            var fn = function () {$/;"	f	function:async.iterator.makeCallback
+fn.next	node_modules/async/lib/async.js	/^            fn.next = function () {$/;"	f
+format	node_modules/ws/lib/extension.js	/^function format (extensions) {$/;"	f
+formatQuery	node_modules/winston/lib/winston/transports/transport.js	/^Transport.prototype.formatQuery = function (query) {$/;"	m	class:Transport
+formatRegExp	node_modules/winston/lib/winston/logger.js	/^var formatRegExp = \/%[sdj%]\/g;$/;"	v
+formatResults	node_modules/winston/lib/winston/transports/transport.js	/^Transport.prototype.formatResults = function (results, options) {$/;"	m	class:Transport
+fri	node_modules/scheduler/lib/cron.time.js	/^	   sun:0,mon:1,tue:2,wed:3,thu:4,fri:5,sat:6$/;"	p	class:CronTime.aliases
+fromBits	node_modules/long/src/long.js	/^function fromBits(lowBits, highBits, unsigned) {$/;"	f
+fromBytes	node_modules/long/src/long.js	/^Long.fromBytes = function fromBytes(bytes, unsigned, le) {$/;"	f
+fromBytesBE	node_modules/long/src/long.js	/^Long.fromBytesBE = function fromBytesBE(bytes, unsigned) {$/;"	f
+fromBytesLE	node_modules/long/src/long.js	/^Long.fromBytesLE = function fromBytesLE(bytes, unsigned) {$/;"	f
+fromInt	node_modules/long/src/long.js	/^function fromInt(value, unsigned) {$/;"	f
+fromNumber	node_modules/long/src/long.js	/^function fromNumber(value, unsigned) {$/;"	f
+fromString	node_modules/long/src/long.js	/^function fromString(str, unsigned, radix) {$/;"	f
+fromValue	node_modules/long/src/long.js	/^function fromValue(val, unsigned) {$/;"	f
+get	node_modules/winston/lib/winston/container.js	/^Container.prototype.get = Container.prototype.add = function (id, options) {$/;"	m	class:Container
+getHighBits	node_modules/long/src/long.js	/^LongPrototype.getHighBits = function getHighBits() {$/;"	f
+getHighBitsUnsigned	node_modules/long/src/long.js	/^LongPrototype.getHighBitsUnsigned = function getHighBitsUnsigned() {$/;"	f
+getLowBits	node_modules/long/src/long.js	/^LongPrototype.getLowBits = function getLowBits() {$/;"	f
+getLowBitsUnsigned	node_modules/long/src/long.js	/^LongPrototype.getLowBitsUnsigned = function getLowBitsUnsigned() {$/;"	f
+getNumBitsAbs	node_modules/long/src/long.js	/^LongPrototype.getNumBitsAbs = function getNumBitsAbs() {$/;"	f
+gf	node_modules/tweetnacl/nacl-fast.js	/^var gf = function(init) {$/;"	f
+gf	node_modules/tweetnacl/nacl.js	/^var gf = function(init) {$/;"	f
+go	node_modules/async/lib/async.js	/^        var go = function () {$/;"	f	function:_applyEach
+gracefulExit	node_modules/winston/lib/winston/logger.js	/^  function gracefulExit() {$/;"	f	function:function
+greaterThan	node_modules/long/src/long.js	/^LongPrototype.greaterThan = function greaterThan(other) {$/;"	f
+greaterThanOrEqual	node_modules/long/src/long.js	/^LongPrototype.greaterThanOrEqual = function greaterThanOrEqual(other) {$/;"	f
+guild_positions	node_modules/discord.js/src/util/Constants.js	/^  guild_positions: 'guildPositions',$/;"	p	class:exports.UserSettingsMap
+h	node_modules/colors/tests/basic-test.js	/^function h(s, color) {$/;"	f
+h	node_modules/colors/tests/safe-test.js	/^function h(s, color) {$/;"	f
+handleExceptions	node_modules/winston/lib/winston/logger.js	/^Logger.prototype.handleExceptions = function () {$/;"	m	class:Logger
+has	node_modules/winston/lib/winston/container.js	/^Container.prototype.has = function (id) {$/;"	m	class:Container
+hasPermission	node_modules/discord.js/src/util/Permissions.js	/^Permissions.prototype.hasPermission = util.deprecate(Permissions.prototype.hasPermission,$/;"	m	class:Permissions
+hasPermissions	node_modules/discord.js/src/structures/GuildMember.js	/^GuildMember.prototype.hasPermissions = util.deprecate(GuildMember.prototype.hasPermissions,$/;"	m	class:GuildMember
+hasPermissions	node_modules/discord.js/src/structures/Role.js	/^Role.prototype.hasPermissions = util$/;"	m	class:Role
+hasPermissions	node_modules/discord.js/src/util/Permissions.js	/^Permissions.prototype.hasPermissions = util.deprecate(Permissions.prototype.hasPermissions,$/;"	m	class:Permissions
+heComes	node_modules/colors/lib/custom/zalgo.js	/^  function heComes(text, options) {$/;"	f	function:module
+help	node_modules/colors/themes/generic-logging.js	/^  help: 'cyan',$/;"	p	class:module
+help	node_modules/winston/lib/winston/config/cli-config.js	/^  help: 'cyan',$/;"	p	class:cliConfig.colors
+help	node_modules/winston/lib/winston/config/cli-config.js	/^  help: 2,$/;"	p	class:cliConfig.levels
+helpers	node_modules/winston/test/helpers.js	/^var helpers = exports;$/;"	v
+helpers.assertConsole	node_modules/winston/test/helpers.js	/^helpers.assertConsole = function (transport) {$/;"	f
+helpers.assertCouchdb	node_modules/winston/test/helpers.js	/^helpers.assertCouchdb = function (transport) {$/;"	f
+helpers.assertDateInfo	node_modules/winston/test/helpers.js	/^helpers.assertDateInfo = function (info) {$/;"	f
+helpers.assertFailedTransport	node_modules/winston/test/helpers.js	/^helpers.assertFailedTransport = function (transport) {$/;"	f
+helpers.assertFile	node_modules/winston/test/helpers.js	/^helpers.assertFile = function (transport) {$/;"	f
+helpers.assertHandleExceptions	node_modules/winston/test/helpers.js	/^helpers.assertHandleExceptions = function (options) {$/;"	f
+helpers.assertLogger	node_modules/winston/test/helpers.js	/^helpers.assertLogger = function (logger, level) {$/;"	f
+helpers.assertMemory	node_modules/winston/test/helpers.js	/^helpers.assertMemory = function (transport) {$/;"	f
+helpers.assertOptionsThrow	node_modules/winston/test/helpers.js	/^helpers.assertOptionsThrow = function (options, errMsg) {$/;"	f
+helpers.assertOsInfo	node_modules/winston/test/helpers.js	/^helpers.assertOsInfo = function (info) {$/;"	f
+helpers.assertProcessInfo	node_modules/winston/test/helpers.js	/^helpers.assertProcessInfo = function (info) {$/;"	f
+helpers.assertStderrLevels	node_modules/winston/test/helpers.js	/^helpers.assertStderrLevels = function (transport, stderrLevels) {$/;"	f
+helpers.assertTrace	node_modules/winston/test/helpers.js	/^helpers.assertTrace = function (trace) {$/;"	f
+helpers.size	node_modules/winston/test/helpers.js	/^helpers.size = function (obj) {$/;"	f
+helpers.testLevels	node_modules/winston/test/helpers.js	/^helpers.testLevels = function (levels, transport, assertMsg, assertFn) {$/;"	f
+helpers.testLoggingToStreams	node_modules/winston/test/helpers.js	/^helpers.testLoggingToStreams = function (levels, transport, stderrLevels, stdMocks) {$/;"	c
+helpers.testNpmLevels	node_modules/winston/test/helpers.js	/^helpers.testNpmLevels = function (transport, assertMsg, assertFn) {$/;"	f
+helpers.testSyslogLevels	node_modules/winston/test/helpers.js	/^helpers.testSyslogLevels = function (transport, assertMsg, assertFn) {$/;"	f
+helpers.tryUnlink	node_modules/winston/test/helpers.js	/^helpers.tryUnlink = function (file) {$/;"	f
+host	node_modules/winston/test/transports/http-test.js	/^var host = '127.0.0.1';$/;"	v
+http:	node_modules/snekfetch/src/node/index.js	/^  'http:': http,$/;"	p	class:const
+https:	node_modules/snekfetch/src/node/index.js	/^  'https:': https,$/;"	p	class:const
+icon_url	node_modules/discord.js/src/structures/RichEmbed.js	/^    this.footer = { text, icon_url: icon };$/;"	p
+id	node_modules/discord.js/src/client/rest/RESTMethods.js	/^        id: this.client.resolver.resolveChannelID(channels[i].channel),$/;"	p	class:data
+inflateOnData	node_modules/ws/lib/permessage-deflate.js	/^function inflateOnData (chunk) {$/;"	c
+inflateOnError	node_modules/ws/lib/permessage-deflate.js	/^function inflateOnError (err) {$/;"	c
+info	node_modules/colors/themes/generic-logging.js	/^  info: 'green',$/;"	p	class:module
+info	node_modules/winston/lib/winston/config/cli-config.js	/^  info: 'green',$/;"	p	class:cliConfig.colors
+info	node_modules/winston/lib/winston/config/cli-config.js	/^  info: 4,$/;"	p	class:cliConfig.levels
+info	node_modules/winston/lib/winston/config/npm-config.js	/^  info: 'green',$/;"	p	class:npmConfig.colors
+info	node_modules/winston/lib/winston/config/npm-config.js	/^  info: 2,$/;"	p	class:npmConfig.levels
+info	node_modules/winston/lib/winston/config/syslog-config.js	/^  info: 'green',$/;"	p	class:syslogConfig.colors
+info	node_modules/winston/lib/winston/config/syslog-config.js	/^  info: 6,$/;"	p	class:syslogConfig.levels
+init	node_modules/colors/lib/colors.js	/^function init() {$/;"	f
+initAsClient	node_modules/ws/lib/websocket.js	/^function initAsClient (address, protocols, options) {$/;"	c
+inline_attachment_media	node_modules/discord.js/src/util/Constants.js	/^  inline_attachment_media: 'inlineAttachmentMedia',$/;"	p	class:exports.UserSettingsMap
+inline_embed_media	node_modules/discord.js/src/util/Constants.js	/^  inline_embed_media: 'inlineEmbedMedia',$/;"	p	class:exports.UserSettingsMap
+input	node_modules/colors/themes/generic-logging.js	/^  input: 'grey',$/;"	p	class:module
+input	node_modules/discord.js/src/client/voice/player/AudioPlayer.js	/^        input: stream,$/;"	p	class:this.currentStream
+input	node_modules/discord.js/src/client/voice/player/AudioPlayer.js	/^      input: broadcast,$/;"	p	class:currentStream
+input	node_modules/discord.js/src/client/voice/player/AudioPlayer.js	/^      input: stream,$/;"	p	class:currentStream
+input	node_modules/winston/lib/winston/config/cli-config.js	/^  input: 'grey',$/;"	p	class:cliConfig.colors
+input	node_modules/winston/lib/winston/config/cli-config.js	/^  input: 8,$/;"	p	class:cliConfig.levels
+inspect	node_modules/eyes/test/eyes-test.js	/^var inspect = eyes.inspector({ stream: null });$/;"	v
+inv25519	node_modules/tweetnacl/nacl-fast.js	/^function inv25519(o, i) {$/;"	f
+inv25519	node_modules/tweetnacl/nacl.js	/^function inv25519(o, i) {$/;"	f
+isDuplex	node_modules/isstream/isstream.js	/^function isDuplex (obj) {$/;"	f	function:isWritable
+isEven	node_modules/long/src/long.js	/^LongPrototype.isEven = function isEven() {$/;"	f
+isLong	node_modules/long/src/long.js	/^function isLong(obj) {$/;"	f
+isNegative	node_modules/long/src/long.js	/^LongPrototype.isNegative = function isNegative() {$/;"	f
+isOdd	node_modules/long/src/long.js	/^LongPrototype.isOdd = function isOdd() {$/;"	f
+isPositive	node_modules/long/src/long.js	/^LongPrototype.isPositive = function isPositive() {$/;"	f
+isZero	node_modules/long/src/long.js	/^LongPrototype.isZero = function isZero() {$/;"	f
+is_char	node_modules/colors/lib/custom/zalgo.js	/^  function is_char(character) {$/;"	f	function:module
+iterate	node_modules/async/lib/async.js	/^        var iterate = function () {$/;"	f	function:async.eachSeries
+iterate	node_modules/async/lib/async.js	/^        var iterate = function () {$/;"	f	function:var
+jan	node_modules/scheduler/lib/cron.time.js	/^	   jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,oct:10,nov:11,dec:12,$/;"	p	class:CronTime.aliases
+jul	node_modules/scheduler/lib/cron.time.js	/^	   jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,oct:10,nov:11,dec:12,$/;"	p	class:CronTime.aliases
+jun	node_modules/scheduler/lib/cron.time.js	/^	   jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,oct:10,nov:11,dec:12,$/;"	p	class:CronTime.aliases
+ld32	node_modules/tweetnacl/nacl.js	/^function ld32(x, i) {$/;"	f
+lessThan	node_modules/long/src/long.js	/^LongPrototype.lessThan = function lessThan(other) {$/;"	f
+lessThanOrEqual	node_modules/long/src/long.js	/^LongPrototype.lessThanOrEqual = function lessThanOrEqual(other) {$/;"	f
+locale	node_modules/discord.js/src/util/Constants.js	/^  locale: 'locale',$/;"	p	class:exports.UserSettingsMap
+log	node_modules/winston/lib/winston/logger.js	/^Logger.prototype.log = function (level) {$/;"	m	class:Logger
+log	node_modules/winston/lib/winston/transports/console.js	/^Console.prototype.log = function (level, msg, meta, callback) {$/;"	m	class:Console
+log	node_modules/winston/lib/winston/transports/file.js	/^File.prototype.log = function (level, msg, meta, callback) {$/;"	m	class:File
+log	node_modules/winston/lib/winston/transports/memory.js	/^Memory.prototype.log = function (level, msg, meta, callback) {$/;"	m	class:Memory
+log	node_modules/winston/test/transports/transport.js	/^            var log = results.pop();$/;"	v
+logAndWait	node_modules/winston/lib/winston/logger.js	/^  function logAndWait(transport, next) {$/;"	f	function:function
+logException	node_modules/winston/lib/winston/transports/transport.js	/^Transport.prototype.logException = function (msg, meta, callback) {$/;"	m	class:Transport
+logKbytes	node_modules/winston/test/transports/file-archive-test.js	/^function logKbytes(kbytes, txt) {$/;"	f
+logger	bot.js	/^var logger = require('winston');$/;"	v
+lookup	node_modules/snekfetch/src/node/mime.js	/^  lookup: lookupMime,$/;"	p	class:module.exports
+lookupBuffer	node_modules/snekfetch/src/node/mime.js	/^function lookupBuffer(buffer) {$/;"	f
+lookupMime	node_modules/snekfetch/src/node/mime.js	/^function lookupMime(ext) {$/;"	f
+main	node_modules/async/support/sync-package-managers.js	/^  main: packageJson.main$/;"	p	class:packageJson.spm
+main	node_modules/async/support/sync-package-managers.js	/^  main: packageJson.main,$/;"	p	class:packageJson.jam
+main	node_modules/async/support/sync-package-managers.js	/^  main: packageJson.main,$/;"	p	class:packageJson.volo
+makeCallback	node_modules/async/lib/async.js	/^        var makeCallback = function (index) {$/;"	f	function:async.iterator
+makeProxy	node_modules/snekfetch/test/interop.js	/^function makeProxy(fetch) {$/;"	f
+makeTestObj	node_modules/snekfetch/test/main.js	/^function makeTestObj({ unicode = true, numbers = false } = {}) {$/;"	f
+mappify	node_modules/discord.js/src/client/actions/GuildEmojisUpdate.js	/^function mappify(iterable) {$/;"	f
+mar	node_modules/scheduler/lib/cron.time.js	/^	   jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,oct:10,nov:11,dec:12,$/;"	p	class:CronTime.aliases
+may	node_modules/scheduler/lib/cron.time.js	/^	   jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,oct:10,nov:11,dec:12,$/;"	p	class:CronTime.aliases
+memoized	node_modules/async/lib/async.js	/^        var memoized = function () {$/;"	f	function:async.memoize
+merge	node_modules/eyes/lib/eyes.js	/^function merge(\/* variable args *\/) {$/;"	f	function:typeOf
+message	node_modules/winston/lib/winston/common.js	/^    var copy = { message: obj.message };$/;"	p	class:var.copy
+messageCacheLifetime	node_modules/discord.js/src/util/Constants.js	/^  messageCacheLifetime: 0,$/;"	p	class:exports.DefaultOptions
+messageCacheMaxSize	node_modules/discord.js/src/util/Constants.js	/^  messageCacheMaxSize: 200,$/;"	p	class:exports.DefaultOptions
+messageSweepInterval	node_modules/discord.js/src/util/Constants.js	/^  messageSweepInterval: 0,$/;"	p	class:exports.DefaultOptions
+message_display_compact	node_modules/discord.js/src/util/Constants.js	/^  message_display_compact: 'messageDisplayCompact',$/;"	p	class:exports.UserSettingsMap
+meta	node_modules/winston/lib/winston/common.js	/^      meta = { meta: meta };$/;"	p	class:meta
+methods	node_modules/winston/lib/winston.js	/^var methods = [$/;"	v
+mid	node_modules/colors/lib/custom/zalgo.js	/^      counts = {"up" : 0, "down" : 0, "mid" : 0};$/;"	p	class:counts
+mimeOfBuffer	node_modules/snekfetch/src/node/mimeOfBuffer.js	/^function mimeOfBuffer(input) {$/;"	f
+minInterval	node_modules/scheduler/lib/scheduler.js	/^    this.conf={minInterval:1000};$/;"	p	class:Scheduler.conf
+missingPermissions	node_modules/discord.js/src/util/Permissions.js	/^Permissions.prototype.missingPermissions = util.deprecate(Permissions.prototype.missingPermissions,$/;"	m	class:Permissions
+mixin	node_modules/winston/lib/winston/config.js	/^function mixin (target) {$/;"	f
+modL	node_modules/tweetnacl/nacl-fast.js	/^function modL(r, x) {$/;"	f
+modL	node_modules/tweetnacl/nacl.js	/^function modL(r, x) {$/;"	f
+module	node_modules/colors/lib/custom/trap.js	/^module['exports'] = function runTheTrap (text, options) {$/;"	f
+module	node_modules/colors/lib/custom/zalgo.js	/^module['exports'] = function zalgo(text, options) {$/;"	f
+module	node_modules/colors/lib/extendStringPrototype.js	/^module['exports'] = function () {$/;"	f
+module	node_modules/colors/lib/maps/zebra.js	/^module['exports'] = function (letter, i, exploded) {$/;"	f
+module.exports	node_modules/winston/test/transports/transport.js	/^module.exports = function (transport, options) {$/;"	f
+moduleType	node_modules/async/support/sync-package-managers.js	/^  moduleType: ['amd', 'globals', 'node'],$/;"	p	class:bowerSpecific
+modulo	node_modules/long/src/long.js	/^LongPrototype.modulo = function modulo(divisor) {$/;"	f
+mon	node_modules/scheduler/lib/cron.time.js	/^	   sun:0,mon:1,tue:2,wed:3,thu:4,fri:5,sat:6$/;"	p	class:CronTime.aliases
+multiply	node_modules/long/src/long.js	/^LongPrototype.multiply = function multiply(multiplier) {$/;"	f
+nacl.box	node_modules/tweetnacl/nacl-fast.js	/^nacl.box = function(msg, nonce, publicKey, secretKey) {$/;"	f
+nacl.box	node_modules/tweetnacl/nacl.js	/^nacl.box = function(msg, nonce, publicKey, secretKey) {$/;"	f
+nacl.box.before	node_modules/tweetnacl/nacl-fast.js	/^nacl.box.before = function(publicKey, secretKey) {$/;"	f
+nacl.box.before	node_modules/tweetnacl/nacl.js	/^nacl.box.before = function(publicKey, secretKey) {$/;"	f
+nacl.box.keyPair	node_modules/tweetnacl/nacl-fast.js	/^nacl.box.keyPair = function() {$/;"	f
+nacl.box.keyPair	node_modules/tweetnacl/nacl.js	/^nacl.box.keyPair = function() {$/;"	f
+nacl.box.keyPair.fromSecretKey	node_modules/tweetnacl/nacl-fast.js	/^nacl.box.keyPair.fromSecretKey = function(secretKey) {$/;"	f
+nacl.box.keyPair.fromSecretKey	node_modules/tweetnacl/nacl.js	/^nacl.box.keyPair.fromSecretKey = function(secretKey) {$/;"	f
+nacl.box.open	node_modules/tweetnacl/nacl-fast.js	/^nacl.box.open = function(msg, nonce, publicKey, secretKey) {$/;"	f
+nacl.box.open	node_modules/tweetnacl/nacl.js	/^nacl.box.open = function(msg, nonce, publicKey, secretKey) {$/;"	f
+nacl.hash	node_modules/tweetnacl/nacl-fast.js	/^nacl.hash = function(msg) {$/;"	f
+nacl.hash	node_modules/tweetnacl/nacl.js	/^nacl.hash = function(msg) {$/;"	f
+nacl.randomBytes	node_modules/tweetnacl/nacl-fast.js	/^nacl.randomBytes = function(n) {$/;"	f
+nacl.randomBytes	node_modules/tweetnacl/nacl.js	/^nacl.randomBytes = function(n) {$/;"	f
+nacl.scalarMult	node_modules/tweetnacl/nacl-fast.js	/^nacl.scalarMult = function(n, p) {$/;"	f
+nacl.scalarMult	node_modules/tweetnacl/nacl.js	/^nacl.scalarMult = function(n, p) {$/;"	f
+nacl.scalarMult.base	node_modules/tweetnacl/nacl-fast.js	/^nacl.scalarMult.base = function(n) {$/;"	f
+nacl.scalarMult.base	node_modules/tweetnacl/nacl.js	/^nacl.scalarMult.base = function(n) {$/;"	f
+nacl.secretbox	node_modules/tweetnacl/nacl-fast.js	/^nacl.secretbox = function(msg, nonce, key) {$/;"	f
+nacl.secretbox	node_modules/tweetnacl/nacl.js	/^nacl.secretbox = function(msg, nonce, key) {$/;"	f
+nacl.secretbox.open	node_modules/tweetnacl/nacl-fast.js	/^nacl.secretbox.open = function(box, nonce, key) {$/;"	f
+nacl.secretbox.open	node_modules/tweetnacl/nacl.js	/^nacl.secretbox.open = function(box, nonce, key) {$/;"	f
+nacl.setPRNG	node_modules/tweetnacl/nacl-fast.js	/^nacl.setPRNG = function(fn) {$/;"	f
+nacl.setPRNG	node_modules/tweetnacl/nacl.js	/^nacl.setPRNG = function(fn) {$/;"	f
+nacl.sign	node_modules/tweetnacl/nacl-fast.js	/^nacl.sign = function(msg, secretKey) {$/;"	f
+nacl.sign	node_modules/tweetnacl/nacl.js	/^nacl.sign = function(msg, secretKey) {$/;"	f
+nacl.sign.detached	node_modules/tweetnacl/nacl-fast.js	/^nacl.sign.detached = function(msg, secretKey) {$/;"	f
+nacl.sign.detached	node_modules/tweetnacl/nacl.js	/^nacl.sign.detached = function(msg, secretKey) {$/;"	f
+nacl.sign.detached.verify	node_modules/tweetnacl/nacl-fast.js	/^nacl.sign.detached.verify = function(msg, sig, publicKey) {$/;"	f
+nacl.sign.detached.verify	node_modules/tweetnacl/nacl.js	/^nacl.sign.detached.verify = function(msg, sig, publicKey) {$/;"	f
+nacl.sign.keyPair	node_modules/tweetnacl/nacl-fast.js	/^nacl.sign.keyPair = function() {$/;"	f
+nacl.sign.keyPair	node_modules/tweetnacl/nacl.js	/^nacl.sign.keyPair = function() {$/;"	f
+nacl.sign.keyPair.fromSecretKey	node_modules/tweetnacl/nacl-fast.js	/^nacl.sign.keyPair.fromSecretKey = function(secretKey) {$/;"	f
+nacl.sign.keyPair.fromSecretKey	node_modules/tweetnacl/nacl.js	/^nacl.sign.keyPair.fromSecretKey = function(secretKey) {$/;"	f
+nacl.sign.keyPair.fromSeed	node_modules/tweetnacl/nacl-fast.js	/^nacl.sign.keyPair.fromSeed = function(seed) {$/;"	f
+nacl.sign.keyPair.fromSeed	node_modules/tweetnacl/nacl.js	/^nacl.sign.keyPair.fromSeed = function(seed) {$/;"	f
+nacl.sign.open	node_modules/tweetnacl/nacl-fast.js	/^nacl.sign.open = function(signedMsg, publicKey) {$/;"	f
+nacl.sign.open	node_modules/tweetnacl/nacl.js	/^nacl.sign.open = function(signedMsg, publicKey) {$/;"	f
+nacl.verify	node_modules/tweetnacl/nacl-fast.js	/^nacl.verify = function(x, y) {$/;"	f
+nacl.verify	node_modules/tweetnacl/nacl.js	/^nacl.verify = function(x, y) {$/;"	f
+name	node_modules/discord.js/src/structures/RichEmbed.js	/^    this.author = { name: resolveString(name), icon_url: icon, url };$/;"	p	class:setAuthor.author
+name	node_modules/winston/lib/winston/transports/console.js	/^Console.prototype.name = 'console';$/;"	m	class:Console
+name	node_modules/winston/lib/winston/transports/file.js	/^File.prototype.name = 'file';$/;"	m	class:File
+name	node_modules/winston/lib/winston/transports/http.js	/^Http.prototype.name = 'http';$/;"	m	class:Http
+name	node_modules/winston/lib/winston/transports/memory.js	/^Memory.prototype.name = 'memory';$/;"	m	class:Memory
+negate	node_modules/long/src/long.js	/^LongPrototype.negate = function negate() {$/;"	f
+neq25519	node_modules/tweetnacl/nacl-fast.js	/^function neq25519(a, b) {$/;"	f
+neq25519	node_modules/tweetnacl/nacl.js	/^function neq25519(a, b) {$/;"	f
+next	node_modules/async/lib/async.js	/^                    var next = function () {$/;"	f
+next	node_modules/async/lib/async.js	/^        function next(err) {$/;"	f	function:async.forever
+noop	node_modules/async/lib/async.js	/^    var noop = function () {};$/;"	f
+nop	node_modules/winston/lib/winston/common.js	/^function nop () {}$/;"	f	function:function
+normalizeQuery	node_modules/winston/lib/winston/transports/transport.js	/^Transport.prototype.normalizeQuery = function (options) {$/;"	m	class:Transport
+not	node_modules/long/src/long.js	/^LongPrototype.not = function not() {$/;"	f
+notEquals	node_modules/long/src/long.js	/^LongPrototype.notEquals = function notEquals(other) {$/;"	f
+notice	node_modules/winston/lib/winston/config/syslog-config.js	/^  notice: 'yellow',$/;"	p	class:syslogConfig.colors
+notice	node_modules/winston/lib/winston/config/syslog-config.js	/^  notice: 5,$/;"	p	class:syslogConfig.levels
+nov	node_modules/scheduler/lib/cron.time.js	/^	   jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,oct:10,nov:11,dec:12,$/;"	p	class:CronTime.aliases
+npmConfig	node_modules/winston/lib/winston/config/npm-config.js	/^var npmConfig = exports;$/;"	v
+oct	node_modules/scheduler/lib/cron.time.js	/^	   jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,oct:10,nov:11,dec:12,$/;"	p	class:CronTime.aliases
+offset	node_modules/ws/lib/sender.js	/^    var offset = options.mask ? 6 : 2;$/;"	v
+onClose	node_modules/ws/lib/event-target.js	/^    function onClose (code, message) {$/;"	f
+onComplete	node_modules/winston/lib/winston/transports/transport.js	/^  function onComplete () {$/;"	f	function:function
+onDone	node_modules/async-limiter/index.js	/^Queue.prototype.onDone = function(cb) {$/;"	m	class:Queue
+onError	node_modules/winston/lib/winston/logger.js	/^  function onError(err) {$/;"	f	function:function
+onError	node_modules/ws/lib/event-target.js	/^    function onError (error) {$/;"	f
+onOpen	node_modules/ws/lib/event-target.js	/^    function onOpen () {$/;"	f
+only_once	node_modules/async/lib/async.js	/^    function only_once(fn) {$/;"	f
+open	node_modules/winston/lib/winston/transports/file.js	/^File.prototype.open = function (callback) {$/;"	m	class:File
+options	node_modules/discord.js/src/client/voice/VoiceBroadcast.js	/^    this.currentTranscoder = { options: { stream } };$/;"	p	class:currentTranscoder
+options	node_modules/discord.js/src/client/voice/VoiceBroadcast.js	/^    this.currentTranscoder = { options: { stream }, opus: true };$/;"	p	class:playOpusStream.currentTranscoder
+or	node_modules/long/src/long.js	/^LongPrototype.or = function or(other) {$/;"	f
+origin	node_modules/ws/lib/websocket-server.js	/^        origin: req.headers[`${version === 8 ? 'sec-websocket-origin' : 'origin'}`],$/;"	p	class:const
+os	node_modules/winston/lib/winston/exception.js	/^var os = require('os'),$/;"	v
+out.destroy	node_modules/winston/lib/winston/logger.js	/^  out.destroy = function () {$/;"	f
+output	node_modules/discord.js/src/client/voice/player/AudioPlayer.js	/^        output: stream,$/;"	p	class:this.currentStream
+output	node_modules/discord.js/src/client/voice/player/AudioPlayer.js	/^      output: broadcast,$/;"	p	class:currentStream
+output	node_modules/discord.js/src/client/voice/player/AudioPlayer.js	/^      output: stream,$/;"	p	class:currentStream
+output	node_modules/discord.js/src/client/voice/player/AudioPlayer.js	/^      output: transcoder.output,$/;"	p	class:currentStream
+pack	node_modules/tweetnacl/nacl-fast.js	/^function pack(r, p) {$/;"	f
+pack	node_modules/tweetnacl/nacl.js	/^function pack(r, p) {$/;"	f
+pack25519	node_modules/tweetnacl/nacl-fast.js	/^function pack25519(o, n) {$/;"	f
+pack25519	node_modules/tweetnacl/nacl.js	/^function pack25519(o, n) {$/;"	f
+packageJson	node_modules/async/support/sync-package-managers.js	/^var packageJson = require('..\/package.json');$/;"	v
+pad	node_modules/discord.js/src/util/Snowflake.js	/^function pad(v, n, c = '0') {$/;"	f
+par25519	node_modules/tweetnacl/nacl-fast.js	/^function par25519(a) {$/;"	f
+par25519	node_modules/tweetnacl/nacl.js	/^function par25519(a) {$/;"	f
+parse	node_modules/snekfetch/src/qs_mock.js	/^  parse: (str) => {$/;"	p	class:exports
+parse	node_modules/ws/lib/extension.js	/^function parse (header) {$/;"	f
+parseLocalPacket	node_modules/discord.js/src/client/voice/VoiceUDPClient.js	/^function parseLocalPacket(message) {$/;"	f
+path	node_modules/winston/test/transports/console-test.js	/^var path = require('path'),$/;"	v
+path	node_modules/winston/test/transports/file-test.js	/^var path = require('path'),$/;"	v
+path	node_modules/winston/test/transports/http-test.js	/^var path = require('path'),$/;"	v
+path	node_modules/winston/test/transports/memory-test.js	/^var path = require('path'),$/;"	v
+pausedTime	node_modules/discord.js/src/client/voice/player/AudioPlayer.js	/^      pausedTime: 0,$/;"	p	class:streamingData
+payload	node_modules/async/lib/async.js	/^            payload: payload,$/;"	p	class:async.cargo.cargo
+payloadLength	node_modules/ws/lib/sender.js	/^    var payloadLength = data.length;$/;"	v
+pipe	node_modules/isstream/test.js	/^  Stream.prototype.pipe = function () {}$/;"	m	class:util.inherits
+poly1305	node_modules/tweetnacl/nacl-fast.js	/^var poly1305 = function(key) {$/;"	c
+port	node_modules/ws/lib/websocket.js	/^    port: serverUrl.port || (isSecure ? 443 : 80),$/;"	p	class:const
+pow2523	node_modules/tweetnacl/nacl-fast.js	/^function pow2523(o, i) {$/;"	f
+pow2523	node_modules/tweetnacl/nacl.js	/^function pow2523(o, i) {$/;"	f
+pow_dbl	node_modules/long/src/long.js	/^var pow_dbl = Math.pow; \/\/ Used 4 times (4*8 to 15+4)$/;"	v
+profile	node_modules/winston/lib/winston/logger.js	/^Logger.prototype.profile = function (id) {$/;"	m	class:Logger
+prompt	node_modules/colors/themes/generic-logging.js	/^  prompt: 'grey',$/;"	p	class:module
+prompt	node_modules/winston/lib/winston/config/cli-config.js	/^  prompt: 'grey',$/;"	p	class:cliConfig.colors
+prompt	node_modules/winston/lib/winston/config/cli-config.js	/^  prompt: 6,$/;"	p	class:cliConfig.levels
+proto	node_modules/colors/lib/colors.js	/^var proto = defineProps(function colors() {}, styles);$/;"	v
+push	node_modules/async/lib/async.js	/^            push: function (data, callback) {$/;"	m	class:async.cargo.cargo
+push	node_modules/winston/lib/winston/transports/file.js	/^  function push(log) {$/;"	f	function:function
+push	node_modules/ws/lib/extension.js	/^function push (dest, name, elem) {$/;"	f
+q.push	node_modules/async/lib/async.js	/^        q.push = function (data, priority, callback) {$/;"	f
+query	node_modules/winston/lib/winston/logger.js	/^Logger.prototype.query = function (options, callback) {$/;"	m	class:Logger
+query	node_modules/winston/lib/winston/transports/file.js	/^File.prototype.query = function (options, callback) {$/;"	m	class:File
+queryTransport	node_modules/winston/lib/winston/logger.js	/^  function queryTransport(transport, next) {$/;"	f	function:function
+queue	node_modules/discord.js/src/client/websocket/WebSocketConnection.js	/^      queue: [],$/;"	p	class:ratelimit
+randomNumber	node_modules/colors/lib/custom/zalgo.js	/^  function randomNumber(range) {$/;"	f	function:module
+randombytes	node_modules/tweetnacl/nacl-fast.js	/^var randombytes = function(\/* x, n *\/) { throw new Error('no PRNG'); };$/;"	f
+randombytes	node_modules/tweetnacl/nacl.js	/^var randombytes = function(\/* x, n *\/) { throw new Error('no PRNG'); };$/;"	f
+readOnly	node_modules/ws/lib/sender.js	/^    var readOnly = true;$/;"	v
+reason	node_modules/discord.js/src/structures/Guild.js	/^      options = { reason: null, 'delete-message-days': options };$/;"	p	class:ban
+reason	node_modules/discord.js/src/structures/Guild.js	/^      options = { reason: options, 'delete-message-days': 0 };$/;"	p	class:options
+reduce	node_modules/tweetnacl/nacl-fast.js	/^function reduce(r) {$/;"	f
+reduce	node_modules/tweetnacl/nacl.js	/^function reduce(r) {$/;"	f
+release	node_modules/scheduler/lib/scheduler.js	/^Scheduler.prototype.release=function(id){$/;"	m	class:Scheduler
+releaseAll	node_modules/scheduler/lib/scheduler.js	/^Scheduler.prototype.releaseAll=function(){$/;"	m	class:Scheduler
+remove	node_modules/winston/lib/winston/logger.js	/^Logger.prototype.remove = function (transport) {$/;"	m	class:Logger
+removeEventListener	node_modules/ws/lib/websocket.js	/^WebSocket.prototype.removeEventListener = EventTarget.removeEventListener;$/;"	m	class:WebSocket
+removeListener	node_modules/async/lib/async.js	/^        var removeListener = function (fn) {$/;"	f	function:async.auto
+removed	node_modules/discord.js/src/structures/GuildAuditLogs.js	/^          removed: data.options.members_removed,$/;"	p	class:this.extra
+render_reactions	node_modules/discord.js/src/util/Constants.js	/^  render_reactions: 'renderReactions',$/;"	p	class:exports.UserSettingsMap
+repository	node_modules/async/support/sync-package-managers.js	/^  repository: REPOSITORY_NAME,$/;"	p	class:componentSpecific
+request	node_modules/snekfetch/src/node/transports/file.js	/^function request(options) {$/;"	f
+reset	node_modules/colors/lib/styles.js	/^  reset: [0, 0],$/;"	p	class:codes
+resolveString	node_modules/discord.js/src/structures/RichEmbed.js	/^function resolveString(data) {$/;"	f
+restWsBridgeTimeout	node_modules/discord.js/src/util/Constants.js	/^  restWsBridgeTimeout: 5000,$/;"	p	class:exports.DefaultOptions
+restricted_guilds	node_modules/discord.js/src/util/Constants.js	/^  restricted_guilds: 'restrictedGuilds',$/;"	p	class:exports.UserSettingsMap
+resumeCount	node_modules/async/lib/async.js	/^                var resumeCount = Math.min(q.concurrency, q.tasks.length);$/;"	v
+retrocycle	node_modules/cycle/cycle.js	/^cycle.retrocycle = function retrocycle($) {$/;"	f
+retryAttempt	node_modules/async/lib/async.js	/^            var retryAttempt = function(task, finalAttempt) {$/;"	f	function:async.retry.wrappedTask
+root	node_modules/async/lib/async.js	/^    var root, previous_async;$/;"	v
+rsv1	node_modules/ws/lib/sender.js	/^    var rsv1 = options.compress;$/;"	v
+runEvents	node_modules/scheduler/lib/cron.js	/^CronJob.prototype.runEvents=function(){$/;"	m	class:CronJob
+runMethod	node_modules/snekfetch/src/index.js	/^  Snekfetch[method.toLowerCase()] = function runMethod(url, opts) {$/;"	f
+runTheTrap	node_modules/colors/lib/custom/trap.js	/^module['exports'] = function runTheTrap (text, options) {$/;"	f
+s	node_modules/colors/tests/basic-test.js	/^var s = 'string';$/;"	v
+s	node_modules/colors/tests/safe-test.js	/^var s = 'string';$/;"	v
+sat	node_modules/scheduler/lib/cron.time.js	/^	   sun:0,mon:1,tue:2,wed:3,thu:4,fri:5,sat:6$/;"	p	class:CronTime.aliases
+saturated	node_modules/async/lib/async.js	/^            saturated: null,$/;"	p	class:async.cargo.cargo
+scalarbase	node_modules/tweetnacl/nacl-fast.js	/^function scalarbase(p, s) {$/;"	f
+scalarbase	node_modules/tweetnacl/nacl.js	/^function scalarbase(p, s) {$/;"	f
+scalarmult	node_modules/tweetnacl/nacl-fast.js	/^function scalarmult(p, q, s) {$/;"	f
+scalarmult	node_modules/tweetnacl/nacl.js	/^function scalarmult(p, q, s) {$/;"	f
+scheduler	bot.js	/^var auth = require('.\/auth.json'); var scheduler = require('scheduler');$/;"	v
+scheduler	node_modules/scheduler/tests/scheduler.test.js	/^var scheduler = require('..\/lib\/scheduler').create(),$/;"	v
+scripts	node_modules/async/support/sync-package-managers.js	/^  scripts: [packageJson.main]$/;"	p	class:componentSpecific
+sel25519	node_modules/tweetnacl/nacl-fast.js	/^function sel25519(p, q, b) {$/;"	f
+sel25519	node_modules/tweetnacl/nacl.js	/^function sel25519(p, q, b) {$/;"	f
+self	node_modules/eyes/test/eyes-test.js	/^obj.that = { self: obj };$/;"	p	class:obj.that
+sep	node_modules/scheduler/lib/cron.time.js	/^	   jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,oct:10,nov:11,dec:12,$/;"	p	class:CronTime.aliases
+sequence	node_modules/discord.js/src/client/voice/player/AudioPlayer.js	/^      sequence: 0,$/;"	p	class:streamingData
+sequencer	node_modules/colors/lib/colors.js	/^var sequencer = function sequencer (map, str) {$/;"	f
+sequencer	node_modules/colors/lib/extendStringPrototype.js	/^  var sequencer = function sequencer (map, str) {$/;"	f	function:module
+set25519	node_modules/tweetnacl/nacl-fast.js	/^function set25519(r, a) {$/;"	f
+set25519	node_modules/tweetnacl/nacl.js	/^function set25519(r, a) {$/;"	f
+setGame	node_modules/discord.js/src/structures/ClientUser.js	/^ClientUser.prototype.setGame =$/;"	m	class:ClientUser
+setLevels	node_modules/winston/lib/winston/logger.js	/^Logger.prototype.setLevels = function (target) {$/;"	m	class:Logger
+setStderrLevels	node_modules/winston/lib/winston/transports/console.js	/^  function setStderrLevels (levels, debugStdout) {$/;"	f	function:function
+shardCount	node_modules/discord.js/src/util/Constants.js	/^  shardCount: 0,$/;"	p	class:exports.DefaultOptions
+shardId	node_modules/discord.js/src/util/Constants.js	/^  shardId: 0,$/;"	p	class:exports.DefaultOptions
+shiftLeft	node_modules/long/src/long.js	/^LongPrototype.shiftLeft = function shiftLeft(numBits) {$/;"	f
+shiftRight	node_modules/long/src/long.js	/^LongPrototype.shiftRight = function shiftRight(numBits) {$/;"	f
+shiftRightUnsigned	node_modules/long/src/long.js	/^LongPrototype.shiftRightUnsigned = function shiftRightUnsigned(numBits) {$/;"	f
+should404	node_modules/snekfetch/src/node/transports/file.js	/^function should404(p) {$/;"	f
+shouldSendRaw	node_modules/snekfetch/src/browser.js	/^  shouldSendRaw: () => false,$/;"	p	class:module.exports
+shouldSendRaw	node_modules/snekfetch/src/node/index.js	/^function shouldSendRaw(data) {$/;"	f
+shouldUnzip	node_modules/snekfetch/src/node/index.js	/^function shouldUnzip(res) {$/;"	f
+show_current_game	node_modules/discord.js/src/util/Constants.js	/^  show_current_game: 'showCurrentGame',$/;"	p	class:exports.UserSettingsMap
+shr64	node_modules/tweetnacl/nacl.js	/^function shr64(x, c) {$/;"	f
+sigma0	node_modules/tweetnacl/nacl.js	/^function sigma0(x) { return xor64(R(x, 1), R(x, 8), shr64(x,7)); }$/;"	f
+sigma1	node_modules/tweetnacl/nacl.js	/^function sigma1(x) { return xor64(R(x,19), R(x,61), shr64(x,6)); }$/;"	f
+silly	node_modules/colors/themes/generic-logging.js	/^  silly: 'rainbow',$/;"	p	class:module
+silly	node_modules/winston/lib/winston/config/cli-config.js	/^  silly: 'magenta'$/;"	p	class:cliConfig.colors
+silly	node_modules/winston/lib/winston/config/cli-config.js	/^  silly: 9,$/;"	p	class:cliConfig.levels
+silly	node_modules/winston/lib/winston/config/npm-config.js	/^  silly: 'magenta'$/;"	p	class:npmConfig.colors
+silly	node_modules/winston/lib/winston/config/npm-config.js	/^  silly: 5$/;"	p	class:npmConfig.levels
+slice	node_modules/winston/lib/winston/transports/file.js	/^    Array.prototype.slice.call(arguments, 1).forEach(function (name) {$/;"	m	class:function.Array
+socketOnError	node_modules/ws/lib/websocket-server.js	/^function socketOnError () {$/;"	c
+sodium	node_modules/discord.js/src/client/voice/util/Secretbox.js	/^  sodium: sodium => ({$/;"	p	class:const
+st32	node_modules/tweetnacl/nacl.js	/^function st32(x, j, u) {$/;"	f
+start	node_modules/scheduler/lib/cron.js	/^CronJob.prototype.start=function(){$/;"	m	class:CronJob
+start	node_modules/winston/lib/winston/transports/file.js	/^    start: options.start$/;"	p	class:var.tail
+start	node_modules/winston/test/transports/transport.js	/^            var start = Date.now() - (100 * 1000);$/;"	v
+startAll	node_modules/scheduler/lib/scheduler.js	/^Scheduler.prototype.startAll=function(){$/;"	m	class:Scheduler
+startTimer	node_modules/winston/lib/winston/logger.js	/^Logger.prototype.startTimer = function () {$/;"	m	class:Logger
+status	node_modules/discord.js/src/util/Constants.js	/^  status: 'status',$/;"	p	class:exports.UserSettingsMap
+stop	node_modules/scheduler/lib/cron.js	/^CronJob.prototype.stop=function(){$/;"	m	class:CronJob
+stop	node_modules/scheduler/lib/scheduler.js	/^Scheduler.prototype.stop=function(id){$/;"	m	class:Scheduler
+stopAll	node_modules/scheduler/lib/scheduler.js	/^Scheduler.prototype.stopAll=function(){$/;"	m	class:Scheduler
+strProperties	node_modules/stack-trace/lib/stack-trace.js	/^var strProperties = [$/;"	v
+stream	node_modules/winston/lib/winston/logger.js	/^Logger.prototype.stream = function (options) {$/;"	m	class:Logger
+stream	node_modules/winston/lib/winston/transports/file.js	/^File.prototype.stream = function (options) {$/;"	m	class:File
+stream	node_modules/winston/test/transports/file-test.js	/^var stream = fs.createWriteStream($/;"	v
+stream.destroy	node_modules/winston/lib/winston/common.js	/^  stream.destroy = function() {$/;"	f
+stringify	node_modules/eyes/lib/eyes.js	/^function stringify(obj, options) {$/;"	f	function:eyes.print
+stringifyArray	node_modules/eyes/lib/eyes.js	/^function stringifyArray(ary, options, level) {$/;"	f	function:eyes.print
+stringifyObject	node_modules/eyes/lib/eyes.js	/^function stringifyObject(obj, options, level) {$/;"	f	function:eyes.print
+stringifyString	node_modules/eyes/lib/eyes.js	/^function stringifyString (str, options) {$/;"	f	function:eyes.print
+styles	node_modules/eyes/lib/eyes.js	/^    styles: {                 \/\/ Styles applied to stdout$/;"	p	class:eyes.defaults
+stylesAll	node_modules/colors/tests/basic-test.js	/^var stylesAll = stylesColors.concat(['bold', 'italic', 'underline', 'inverse', 'rainbow']);$/;"	v
+stylesAll	node_modules/colors/tests/safe-test.js	/^var stylesAll = stylesColors.concat(['bold', 'italic', 'underline', 'inverse', 'rainbow']);$/;"	v
+stylesColors	node_modules/colors/tests/basic-test.js	/^var stylesColors = ['white', 'black', 'blue', 'cyan', 'green', 'magenta', 'red', 'yellow'];$/;"	v
+stylesColors	node_modules/colors/tests/safe-test.js	/^var stylesColors = ['white', 'black', 'blue', 'cyan', 'green', 'magenta', 'red', 'yellow'];$/;"	v
+stylize	node_modules/colors/lib/extendStringPrototype.js	/^  var stylize = function stylize (str, style) {$/;"	f
+subtract	node_modules/long/src/long.js	/^LongPrototype.subtract = function subtract(subtrahend) {$/;"	f
+sun	node_modules/scheduler/lib/cron.time.js	/^	   sun:0,mon:1,tue:2,wed:3,thu:4,fri:5,sat:6$/;"	p	class:CronTime.aliases
+sync	node_modules/discord.js/src/util/Constants.js	/^  sync: false,$/;"	p	class:exports.DefaultOptions
+syslogConfig	node_modules/winston/lib/winston/config/syslog-config.js	/^var syslogConfig = exports;$/;"	v
+taskComplete	node_modules/async/lib/async.js	/^        var taskComplete = function () {$/;"	f	function:async.auto
+tasks	node_modules/async/lib/async.js	/^            tasks: [],$/;"	p	class:async.queue.q
+tasks	node_modules/async/lib/async.js	/^            tasks: tasks,$/;"	p	class:async.cargo.cargo
+testDuplex	node_modules/isstream/test.js	/^function testDuplex (pass, type, stream) {$/;"	f
+testReadable	node_modules/isstream/test.js	/^function testReadable (pass, type, stream) {$/;"	f
+testWritable	node_modules/isstream/test.js	/^function testWritable (pass, type, stream) {$/;"	f
+theme	node_modules/discord.js/src/util/Constants.js	/^  theme: 'theme',$/;"	p	class:exports.UserSettingsMap
+throwIf	node_modules/winston/lib/winston/transports/file.js	/^  function throwIf (target \/*, illegal... *\/) {$/;"	f	function:function
+thu	node_modules/scheduler/lib/cron.time.js	/^	   sun:0,mon:1,tue:2,wed:3,thu:4,fri:5,sat:6$/;"	p	class:CronTime.aliases
+timestamp	node_modules/discord.js/src/client/voice/player/AudioPlayer.js	/^      timestamp: 0,$/;"	p	class:streamingData
+timestamp	node_modules/discord.js/src/util/Snowflake.js	/^      timestamp: parseInt(BINARY.substring(0, 42), 2) + EPOCH,$/;"	p	class:const
+toArrayBuffer	node_modules/ws/lib/receiver.js	/^function toArrayBuffer (buf) {$/;"	f
+toBuffer	node_modules/ws/lib/receiver.js	/^function toBuffer (fragments, messageLength) {$/;"	f
+toBytes	node_modules/long/src/long.js	/^LongPrototype.toBytes = function toBytes(le) {$/;"	f
+toBytesBE	node_modules/long/src/long.js	/^LongPrototype.toBytesBE = function toBytesBE() {$/;"	f
+toBytesLE	node_modules/long/src/long.js	/^LongPrototype.toBytesLE = function toBytesLE() {$/;"	f
+toInt	node_modules/long/src/long.js	/^LongPrototype.toInt = function toInt() {$/;"	f
+toNumber	node_modules/long/src/long.js	/^LongPrototype.toNumber = function toNumber() {$/;"	f
+toSigned	node_modules/long/src/long.js	/^LongPrototype.toSigned = function toSigned() {$/;"	f
+toString	node_modules/long/src/long.js	/^LongPrototype.toString = function toString(radix) {$/;"	f
+toUnsigned	node_modules/long/src/long.js	/^LongPrototype.toUnsigned = function toUnsigned() {$/;"	f
+token	node_modules/discord.js/src/client/websocket/WebSocketConnection.js	/^      token: this.client.token,$/;"	p	class:const
+tooLate	node_modules/discord.js/src/client/websocket/packets/handlers/TypingStart.js	/^function tooLate(channel, user) {$/;"	f
+topic	node_modules/winston/test/helpers.js	/^    topic: function () {$/;"	m	class:helpers.testLevels.circmetadatatest
+topic	node_modules/winston/test/helpers.js	/^    topic: function () {$/;"	m	class:helpers.testLevels.metadatatest
+topic	node_modules/winston/test/helpers.js	/^    topic: function () {$/;"	m	class:helpers.testLevels.primmetadatatest
+topic	node_modules/winston/test/transports/transport.js	/^    'topic': logger,$/;"	p	class:module.exports.out
+transcoder	node_modules/discord.js/src/client/voice/player/AudioPlayer.js	/^      transcoder: transcoder,$/;"	p	class:currentStream
+transport	node_modules/winston/test/transports/file-test.js	/^var transport = require('.\/transport');$/;"	v
+transport	node_modules/winston/test/transports/http-test.js	/^var transport = require('.\/transport');$/;"	v
+transportLog	node_modules/winston/lib/winston/logger.js	/^  function transportLog(name, next) {$/;"	f	function:function
+transports	node_modules/winston/lib/winston/container.js	/^    transports: [$/;"	p	class:this.default
+ts64	node_modules/tweetnacl/nacl-fast.js	/^function ts64(x, i, h, l) {$/;"	f
+ts64	node_modules/tweetnacl/nacl.js	/^function ts64(x, i, u) {$/;"	f
+tue	node_modules/scheduler/lib/cron.time.js	/^	   sun:0,mon:1,tue:2,wed:3,thu:4,fri:5,sat:6$/;"	p	class:CronTime.aliases
+u64	node_modules/tweetnacl/nacl.js	/^var u64 = function(h, l) { this.hi = h|0 >>> 0; this.lo = l|0 >>> 0; };$/;"	c
+unhandleExceptions	node_modules/winston/lib/winston/logger.js	/^Logger.prototype.unhandleExceptions = function () {$/;"	m	class:Logger
+unpack25519	node_modules/tweetnacl/nacl-fast.js	/^function unpack25519(o, n) {$/;"	f
+unpack25519	node_modules/tweetnacl/nacl.js	/^function unpack25519(o, n) {$/;"	f
+unpackneg	node_modules/tweetnacl/nacl-fast.js	/^function unpackneg(r, p) {$/;"	f
+unpackneg	node_modules/tweetnacl/nacl.js	/^function unpackneg(r, p) {$/;"	f
+up	node_modules/colors/lib/custom/zalgo.js	/^      counts = {"up" : 0, "down" : 0, "mid" : 0};$/;"	p	class:counts
+up	node_modules/colors/lib/custom/zalgo.js	/^    "up" : [$/;"	p	class:module.soul
+update	node_modules/tweetnacl/nacl-fast.js	/^poly1305.prototype.update = function(m, mpos, bytes) {$/;"	m	class:poly1305
+url	node_modules/discord.js/src/client/rest/UserAgentManager.js	/^  url: Constants.Package.homepage.split('#')[0],$/;"	p	class:UserAgentManager.DEFAULT
+util	node_modules/eyes/test/eyes-test.js	/^var util = require('util');$/;"	v
+util	node_modules/winston/lib/winston/common.js	/^var util = require('util'),$/;"	v
+util	node_modules/winston/lib/winston/transports/http.js	/^var util = require('util'),$/;"	v
+util.inherits	node_modules/isstream/test.js	/^  util.inherits(Stream, EE)$/;"	c
+verbose	node_modules/colors/themes/generic-logging.js	/^  verbose: 'cyan',$/;"	p	class:module
+verbose	node_modules/winston/lib/winston/config/cli-config.js	/^  verbose: 'cyan',$/;"	p	class:cliConfig.colors
+verbose	node_modules/winston/lib/winston/config/cli-config.js	/^  verbose: 7,$/;"	p	class:cliConfig.levels
+verbose	node_modules/winston/lib/winston/config/npm-config.js	/^  verbose: 'cyan',$/;"	p	class:npmConfig.colors
+verbose	node_modules/winston/lib/winston/config/npm-config.js	/^  verbose: 3,$/;"	p	class:npmConfig.levels
+viewToBuffer	node_modules/ws/lib/sender.js	/^function viewToBuffer (view) {$/;"	f
+vn	node_modules/tweetnacl/nacl-fast.js	/^function vn(x, xi, y, yi, n) {$/;"	f
+vn	node_modules/tweetnacl/nacl.js	/^function vn(x, xi, y, yi, n) {$/;"	f
+warn	node_modules/colors/themes/generic-logging.js	/^  warn: 'yellow',$/;"	p	class:module
+warn	node_modules/winston/lib/winston/config/cli-config.js	/^  warn: 'yellow',$/;"	p	class:cliConfig.colors
+warn	node_modules/winston/lib/winston/config/cli-config.js	/^  warn: 1,$/;"	p	class:cliConfig.levels
+warn	node_modules/winston/lib/winston/config/npm-config.js	/^  warn: 'yellow',$/;"	p	class:npmConfig.colors
+warn	node_modules/winston/lib/winston/config/npm-config.js	/^  warn: 1,$/;"	p	class:npmConfig.levels
+warning	node_modules/winston/lib/winston/config/syslog-config.js	/^  warning: 'red',$/;"	p	class:syslogConfig.colors
+warning	node_modules/winston/lib/winston/config/syslog-config.js	/^  warning: 4,$/;"	p	class:syslogConfig.levels
+wasm	node_modules/long/src/long.js	/^var wasm = null;$/;"	v
+wed	node_modules/scheduler/lib/cron.time.js	/^	   sun:0,mon:1,tue:2,wed:3,thu:4,fri:5,sat:6$/;"	p	class:CronTime.aliases
+when passed valid options	node_modules/winston/test/transports/transport.js	/^    'when passed valid options': {$/;"	p	class:module.exports.out
+winston	node_modules/winston/lib/winston.js	/^var winston = exports;$/;"	v
+winston	node_modules/winston/scratch/buffer.js	/^var winston = require('..\/');$/;"	v
+winston.cli	node_modules/winston/lib/winston.js	/^winston.cli = function () {$/;"	f
+winston.setLevels	node_modules/winston/lib/winston.js	/^winston.setLevels = function (target) {$/;"	f
+wrapIterator	node_modules/async/lib/async.js	/^        var wrapIterator = function (iterator) {$/;"	f	function:async.waterfall
+wrappedTask	node_modules/async/lib/async.js	/^        var wrappedTask = function(wrappedCallback, wrappedResults) {$/;"	f	function:async.retry
+xor	node_modules/long/src/long.js	/^LongPrototype.xor = function xor(other) {$/;"	f
+xor64	node_modules/tweetnacl/nacl.js	/^function xor64() {$/;"	f
+zalgo	node_modules/colors/lib/custom/zalgo.js	/^module['exports'] = function zalgo(text, options) {$/;"	f
